@@ -13,6 +13,7 @@ nltk = "*"
 contractions = "*"
 scikit-learn = "*"
 deep-translator = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 ipykernel = "*"
