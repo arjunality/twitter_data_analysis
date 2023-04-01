@@ -1,1678 +1,1677 @@
-,text,meaning
+Column1,text,meaning
 1,;S,"Gentle warning, like ""Hmm? What did you say?"""
 2,?,I have a question
 3,?,I don't understand what you mean
 4,?4U,I have a question for you
-5,.02,My (or your) two cents worth
-6,@TEOTD,At the end of the day
-7,*s*,"Meaning ""smile"""
-8,*w*,"Meaning ""wink"""
-9,^^,"Meaning ""read line"" or ""read message"" above"
-10,^5,High-five
-11,^URS,Up yours
-12,"Meaning ""broken heart""","Meaning ""broken heart"""
-13,<3,"Meaning ""sideways heart"" (love, friendship)"
-14,<3333,"Meaning ""heart or love"" (more 3s is a bigger heart)"
-15,10M,Ten man as in ten man squad in online gaming
-16,10Q,Thank you
-17,10X,Thanks
-18,121,One-to-one (private chat initiation)
-19,1337,"Leet, meaning 'elite'"
-20,143,I love you
-21,1432,I love you too
-22,14AA41,"One for all, and all for one"
-23,182,I hate you
-24,19,Zero hand (cribbage)
-25,1CE,Once
-26,1DR,I wonder
-27,1NAM,One in a million
-28,"1TG, 2TG",1 to go or 2 to go. Meaning number of items needed for win (online bingo)
-29,1UP,Meaning extra life (online gaming)
-30,2,"Meaning ""to"" in SMS"
-31,20,"Meaning ""location"" (trucking lingo)"
-32,2B,To be
-33,2EZ,Too easy
-34,2G2BT,Too good to be true
-35,2M2H,Too much too handle
-36,2MI,Too much information
-37,2MOR,Tomorrow
-38,2MORO,Tomorrow
-39,2N8,Tonight
-40,2NTE,Tonight
-41,4,"Short for ""for"" in SMS"
-42,404,I don't know
-43,411,"Meaning ""information"""
-44,420,Lets get high
-45,420,"Meaning ""Marijuana"""
-46,459,Means I love you (ILY is 459 using keypad numbers)
-47,4AO,For adults only
-48,4COL,For crying out loud
-49,4EAE,Forever and ever
-50,4EVA,Forever
-51,4NR,Foreigner
-52,4SALE,For sale
-53,511,Too much information (more than 411)
-54,555,"Sobbing, crying. (Mandarin Chinese txt msgs)"
-55,55555,Crying your eyes out (Mandarin Chinese txt msgs)
-56,55555,Meaning Laughing (In Thai language the number 5 is pronounced 'ha'.)
-57,6Y,Sexy
-58,7K,"Sick, really cool"
-59,81,"Meaning Hells Angels (H=8th letter of alphabet, A=1st letter of alphabet)"
-60,831,"I love you (8 letters, 3 words, 1 meaning)"
-61,86,"Over, throw out (military/bartending)"
-62,88,Bye-bye (Mandarin Chinese txt msgs)
-63,88,Hugs and kisses (amateur radio)
-64,9,Parent is watching (social media)
-65,"""A"" Text Message & Chat Abbreviations",
-66,A/N,Author's note
-67,A/S/L,Age/sex/location
-68,A3,"Anytime, anywhere, anyplace"
-69,AA,Alcoholics Anonymous
-70,AA,As above
-71,AA,Ask about
-72,AAF,As a matter of fact
-73,AAF,As a friend
-74,AAK,Asleep at keyboard
-75,AAK,Alive and kicking
-76,AAMOF,As a matter of fact
-77,AAMOI,As a matter of interest
-78,AAP,Always a pleasure
-79,AAR,At any rate
-80,AAS,Alive and smiling
-81,AASHTA,"As always, Sheldon has the answer (Bike mechanic Sheldon Brown)"
-82,AATK,Always at the keyboard
-83,AAYF,"As always, your friend"
-84,ABBR,Meaning abbreviation
-85,ABC,Already been chewed
-86,ABD,Already been done
-87,ABT,About
-88,ABT2,Meaning 'About to'
-89,ABTA,Meaning Good-bye (signoff)
-90,ABU,All bugged up
-91,AC,Acceptable content
-92,ACC,Anyone can come
-93,ACD,ALT / CONTROL / DELETE
-94,ACDNT,"Accident (e-mail, Government)"
-95,ACE,"Meaning marijuana cigarette, or 3.5-4 grams of weed"
-96,ACK,Acknowledge
-97,ACPT,"Accept (e-mail, Government)"
-98,ACQSTN,"Acquisition (e-mail, Government)"
-99,ADAD,"Another day, another dollar"
-100,ADBB,"All done, bye-bye"
-101,ADD,Address
-102,ADDY,Address
-103,ADIH,Another day in hell
-104,ADIP,Another day in paradise
-105,ADMIN,Administrator
-106,ADMINR,Administrator (Government)
-107,ADN,Any day now
-108,ADR,Address
-109,AE,Area effect (online gaming)
-110,AEAP,As early as possible
-111,AF,April Fools
-112,AF,As *Freak*
-113,AF,Aggression factor (online gaming)
-114,AFAIAA,As far as I am aware
-115,AFAIC,As far as I am concerned
-116,AFAIK,As far as I know
-117,AFAIUI,As far as I understand it
-118,AFAP,As far as possible
-119,AFC,Away from computer
-120,AFFA,"Angels Forever, Forever Angels"
-121,AFJ,April Fool's joke
-122,AFK,Away from keyboard
-123,AFPOE,A fresh pair of eyes
-124,AFZ,Acronym Free Zone
-125,AGI,"Meaning ""agility"" (online gaming)"
-126,AH,At home
-127,AIAMU,And I am a money's uncle
-128,AIGHT,Alright
-129,AIR,As I remember
-130,AISB,As it should be
-131,AISB,As I said before
-132,AISI,As I see it
-133,AITR,Adult in the room
-134,AKA,Also known as
-135,ALCON,All concerned
-136,ALOL,Actually laughing out loud
-137,AMA,Ask me anything (Reddit)
-138,AMAP,As much as possible
-139,AMBW,All my best wishes
-140,AML,All my love
-141,AMOF,As a matter of fact
-142,AO,Anarchy Online (online gaming)
-143,AOC,Available on cell
-144,AOE,Area of effect (online game)
-145,AOM,Age of majority
-146,AOM,Age of Mythology (online gaming)
-147,AOTA,All of the above
-148,AOYP,Angel on your pillow
-149,APAC,All praise and credit
-150,API,Application Programming Interface
-151,APP,Application
-152,APP,Appreciate
-153,AQAP,As quick (or quiet) as possible
-154,ARC,Archive (compressed files)
-155,ARE,Acronym rich environment
-156,ARG,Argument
-157,ASAP,As soon as possible
-158,ASIG,And so it goes
-159,ASL,Age/sex/location
-160,ASLA,Age/sex/location/availability
-161,AT,At your terminal
-162,ATB,All the best
-163,ATEOTD,At the end of the day
-164,ATM,At the moment
-165,ATSITS,All the stars in the sky
-166,ATSL,Along the same line (or lines)
-167,AWC,After awhile crocodile
-168,AWESO,Awesome
-169,AWOL,Away without leaving
-170,AWOL,Absent without leave
-171,AYBABTU,All your base are belong to us (online gaming)
-172,AYDY,Are you done yet?
-173,AYEC,At your earliest convenience
-174,AYOR,At your own risk
-175,AYS,Are you serious?
-176,AYSOS,Are you stupid or something?
-177,AYT,Are you there?
-178,AYTMTB,And you're telling me this because
-179,AYV,Are you vertical?
-180,AYW,As you were
-181,AYW,As you want / As you wish
-182,AZN,Asian
-183,"""B"" Text Message & Chat Abbreviations",
-184,B,Back
-185,B,Be
-186,B-DAY,Birthday
-187,B/C,Because
-188,B/F,Boyfriend
-189,B/G,Background (personal information request)
-190,B&,Banned
-191,B2B,Business-to-business
-192,B2C,Business-to-consumer
-193,B2W,Back to work
-194,B4,Before
-195,B4N,Bye for now
-196,B8,"Bait (person teased or joked with, or under-aged person/teen)"
-197,B9,Boss is watching
-198,BA,Bad *a*
-199,BAE,Before anyone else
-200,BAE,Meaning Babe or baby
-201,BAFO,Best and final offer
-202,BAG,Busting a gut
-203,BAK,Back at keyboard
-204,BAM,Below average mentality
-205,BAMF,Bad *a* mother *f*
-206,BAO,Be aware of
-207,BAS,Big 'butt' smile
-208,BASIC,Meaning anything mainstream
-209,BASOR,Breathing a sigh of relief
-210,BAU,Business as usual
-211,BAY,Back at ya
-212,BB,Be back
-213,BB,Big brother
-214,BB,Bebi / Baby (Spanish SMS)
-215,BBC,Big bad challenge
-216,BBIAB,Be back in a bit
-217,BBIAF,Be back in a few
-218,BBIAM,Be back in a minute
-219,BBIAS,Be back in a sec
-220,BBL,Be back later
-221,BBN,"Bye, bye now"
-222,BBQ,"Barbeque, ""Ownage"", shooting score/frag (online gaming)"
-223,BBS,Be back soon
-224,BBT,Be back tomorrow
-225,BC,Because
-226,BC,Be cool
-227,BCNU,Be seeing you
-228,BCO,Big crush on
-229,BCOS,Because
-230,BCOY,Big crush on you
-231,BD,Big deal
-232,BDAY,Birthday
-233,BDN,Big darn number
-234,BEG,Big evil grin
-235,BELF,"Meaning ""Blood Elf"" (online gaming)"
-236,BF,Boyfriend
-237,BF,Brain fart
-238,BF,Best friend
-239,BF2,Battlefield 2 (online gaming)
-240,BFAW,Best friend at work
-241,BFD,Big freaking deal
-242,BFF,Best friends forever
-243,BFFL,Best friends for life
-244,BFFLNMW,"Best friends for life, no matter what"
-245,BFFN,Best friend for now
-246,BFG,Big freaking grin
-247,BFN,Bye for now
-248,BG,Big grin
-249,BGWM,Be gentle with me
-250,BHL8,Be home late
-251,BIB,Boss is back
-252,BIBO,"Beer in, beer out"
-253,BIC,Butt in chair
-254,BIF,Before I forget
-255,BIH,Burn in hell
-256,BIL,Brother in law
-257,BIO,"Meaning ""I'm going to the bathroom"" (or) ""Bathroom break"""
-258,BION,Believe it or not
-259,BIOYA,Blow it out your *a*
-260,BIOYN,Blow it out your nose
-261,BIS,Best in slot (online gaming)
-262,BISFLATM,"Boy, I sure feel like a turquoise monkey! (unverified)"
-263,BITMT,But in the meantime
-264,BL,Belly laugh
-265,BLNT,Better luck next time
-266,Bloke,Meaning Man (Discord)
-267,BM,Bite me
-268,BM&Y,Between me and you
-269,BME,Based on my experience
-270,BMS,"Broke my scale, used when rating someone"
-271,BN,Bad news
-272,BO,Body Odor
-273,BOB,Back off *buddy*
-274,BOE,"Meaning ""bind on equip"" (online gaming)"
-275,BOGO,Buy One Get One (Free)
-276,BOHICA,Bend over here it comes again
-277,BOL,Best of luck
-278,BOLO,Be on the look out
-279,BOM,*b* of mine
-280,BOOMS,Bored out of my skull
-281,BOP,"Meaning ""bind on pickup"" (online gaming)"
-282,BOPUS,"Buy Online, Pick Up In Store"
-283,BOSMKL,Bending over smacking my knee laughing
-284,BOT,Back on topic
-285,BOT,Be on that
-286,BOYF,Boyfriend
-287,BPLM,Big person little mind
-288,BR,Best regards
-289,BRB,Be right back
-290,BRBB,Be right back *b*
-291,BRD,Bored
-292,BRH,Be right here
-293,BRNC,"Be right back, nature calls"
-294,BRT,Be right there
-295,BSF,But seriously folks
-296,BSOD,Blue screen of death
-297,BSTS,Better safe than sorry
-298,BT,Bite this
-299,BT,Between technologies
-300,BTA,But then again
-301,BTDT,"Been there, done that"
-302,BTS,Behind The Scenes
-303,BTW,By the way
-304,BTYCL,Meaning 'Bootycall'
-305,BUBU,Slang term for the most beautiful of women
-306,Buff,"Meaning ""changed and is now stronger"" (online gaming)"
-307,BUMP,Bring Up My Post
-308,BURN,Used to reference an insult
-309,BWL,Bursting with laughter
-310,BYOB,Bring your own beer
-311,BYOC,Bring your own computer
-312,BYOD,Bring your own device
-313,BYOH,Bat you on (the) head
-314,BYOP,Bring your own paint (paintball)
-315,BYTM,Better you than me
-316,"""C"" Text Message & Chat Abbreviations",
-317,C/P,Cross post
-318,C&G,Chuckle & grin
-319,C2C,Customer to Customer
-320,C4N,Ciao for now
-321,CAD,Control + Alt + Delete
-322,CAD,Short for Canada/Canadian
-323,Cakeday,Meaning Birthday (Reddit)
-324,CAM,Camera (SMS)
-325,CB,Coffee break
-326,CB,Chat break
-327,CB,Crazy *b*
-328,CC,Carbon Copy
-329,CD9,"Code 9, Meaning ""parents are around"""
-330,CFS,Care for secret?
-331,CFY,Calling for you
-332,CHK,Check
-333,CIAO,Good-bye (Italian word)
-334,CICO,"Coffee in, coffee out"
-335,CID,Crying in disgrace
-336,CID,Consider it done
-337,CLAB,Crying like a baby
-338,CLD,Could
-339,CLK,Click
-340,CM,Call me
-341,CMAP,Cover my *a* partner (online gaming)
-342,CMB,Call me back
-343,CMGR,"Meaning ""Community manager"""
-344,CMIIW,Correct me if I'm wrong
-345,CMON,Come on
-346,CMS,Content Management System
-347,CNP,Continued (in) next post
-348,COB,Close of business
-349,COH,City of Heroes (online gaming)
-350,COS,Because
-351,CP,Chat post (or continue in IM)
-352,CPC,Cost Per Click
-353,CPM,Cost Per Mile (Used for ad impressions)
-354,CR,Conversion Rate
-355,CR8,Create
-356,CRA CRA,"Slang term meaning ""crazy"""
-357,CRAFT,Can't remember a *freaking* thing
-358,Cray,Meaning crazy
-359,CRB,Come right back
-360,CRBT,Crying really big tears
-361,CRE8,Create
-362,CRIT,"Meaning ""critical hit"" (online gaming)"
-363,CRS,Can't remember *stuff*
-364,CRZ,Crazy
-365,CS,Career Suicide
-366,CSG,"Chuckle, snicker, grin"
-367,CSL,Can't stop laughing
-368,CSS,Counter-Strike Source (online gaming)
-369,CT,Can't talk
-370,CTA,Call To Action
-371,CTC,Care to chat?
-372,CTHU,Cracking the *heck* up
-373,CTN,Can't talk now
-374,CTO,Check this out
-375,CTR,Click Through Rate
-376,CU,See you too
-377,CU,See you
-378,CU2,See you
-379,CUA,See you around
-380,CUL,See you later
-381,CUL8R,See you later
-382,CULA,See you later alligator
-383,CUMID,See you in my dreams
-384,CURLO,See you around like a donut
-385,CWD,Comment when done
-386,CWOT,Complete waste of time
-387,CWYL,Chat with you later
-388,CX,"Meaning ""Correction"""
-389,CX,Customer Experience
-390,CYA,See you
-391,CYAL8R,See you later
-392,CYE,Check your e-mail
-393,CYEP,Close your eyes partner (online gaming)
-394,CYO,See you online
-395,"""D"" Text Message & Chat Abbreviations",
-396,D/L,Download
-397,d00d,Dude
-398,D2,Dedos / fingers (Spanish SMS)
-399,D46?,Down for sex?
-400,DA,"Meaning ""The"""
-401,DAE,Does anyone else?
-402,DAFUQ,(What) the *Freak*?
-403,DAM,Don't annoy me
-404,DAoC,Dark Age of Camelot (online gaming)
-405,DBAU,Doing business as usual
-406,DBEYR,Don't believe everything you read
-407,DC,Disconnect
-408,DD,Dear (or Darling) daughter
-409,DD,Due diligence
-410,DDG,Drop dead gorgeous
-411,DEEZ NUTZ,A phrase used in online chat to annoy or frustrate those involved in the conversation.
-412,DEGT,Dear (or Darling) daughter
-413,DERP,Meaning stupid or silly
-414,DF,Don't even go there
-415,DFL,Dead *freaking* last (online gaming)
-416,DGA,Don't go anywhere
-417,DGAF,Don't give a *freak*
-418,DGT,Don't go there
-419,DGTG,"Don't go there, girlfriend"
-420,DGYF,"Dang, girl you fine"
-421,DH,Dear (or Darling) husband
-422,DHU,Dinosaur hugs (used to show support)
-423,DIIK,Darned if I know
-424,DIKU,Do I know you?
-425,DILLIGAF,Do I look like I give a *freak*?
-426,DILLIGAS,Do I look like I give a sugar?
-427,DIS,Did I say?
-428,DITYID,Did I tell you I'm distressed?
-429,DIY,Do it yourself
-430,DKDC,"Don't know, don't care"
-431,DKP,Dragon kill points (online gaming)
-432,DL,Download
-433,DL,Down low
-434,DL,Dead link
-435,DLBBB,Don't let (the) bed bugs bite
-436,DLTBBB,Don't let the bed bugs bite
-437,DM,Doesn't matter
-438,DM,Direct message (Twitter slang)
-439,DM,Do me
-440,DM,Dungeon Master (online gaming)
-441,DMNO,Dude Man No Offense
-442,DMY,Don't mess yourself
-443,DN,Down
-444,DNC,Do not compute (meaning I do not understand)
-445,DNR,Dinner (SMS)
-446,DNT,Don't
-447,DOE,Daughter of Eve
-448,DORBS,"Meaning ""Adorable"""
-449,DOT,Damage over time (online gaming)
-450,Downvote,Voting negatively on a thread using Reddit s voting system (Reddit)
-451,DPS,Damage per second (online gaming)
-452,DQMOT,Don't quote me on this
-453,DR,Didn't read
-454,DS,Dear (or Darling) son
-455,DTR,Define the relationship
-456,DTRT,Do the right thing
-457,DTS,Don't think so
-458,DTTD,Don't touch that dial
-459,DUPE,Duplicate
-460,DUR,Do you remember?
-461,DV8,Deviate
-462,DW,Dear (or Darling) wife
-463,DWBH,"Don’t Worry, Be Happy"
-464,DWF,Divorced white female
-465,DWH,During Work Hours
-466,DWM,Divorced white male
-467,DXNRY,Dictionary
-468,DYFI,Did you find it?
-469,DYFM,"Dude, you fascinate me"
-470,DYJHIW,Don't you just hate it when...?
-471,DYK,Did You Know
-472,DYNWUTB,Do you know what you are talking about?
-473,DYOR,Do your own research (common stock market chat slang)
-474,"""E"" Text Message & Chat Abbreviations",
-475,E,Ecstasy
-476,E,Enemy (online gaming)
-477,E1,Everyone
-478,E123,"Easy as one, two, three"
-479,E2EG,Ear to ear grin
-480,EAK,Eating at keyboard
-481,EBKAC,Error between keyboard and chair
-482,ED,Erase display
-483,EF4T,Effort
-484,EG,Evil grin
-485,EI,Eat it
-486,EIP,Editing in progress
-487,ELI5,Explain like I'm 5
-488,EM,E-mail (Twitter slang)
-489,EMA,E-mail address (Twitter slang)
-490,EMBAR,"Meaning ""Embarassing"""
-491,EMFBI,Excuse me for butting in
-492,EMFBI,Excuse me for jumping in
-493,EMSG,E-mail message
-494,ENUF,Enough
-495,EOD,End of day
-496,EOD,End of discussion
-497,EOL,End of lecture
-498,EOL,End of life
-499,EOM,End of message
-500,EOS,End of show
-501,EOT,End of transmission
-502,EQ,EverQuest (online gaming)
-503,ERP,"Meaning ""Erotic Role-Play"" (online gaming)"
-504,ERS2,Eres tz / are you (Spanish SMS)
-505,ES,Erase screen
-506,ESAD,Eat *S* and die!
-507,ESP,Email Service Provider
-508,ETA,Estimated time (of) arrival
-509,ETA,Edited to add
-510,EVA,Ever
-511,EVO,Evolution
-512,EWG,"Evil wicked grin (in fun, teasing)"
-513,EWI,Emailing while intoxicated
-514,EXTRA,Meaning over the top
-515,EYC,"Excitable, yet calm"
-516,EZ,Easy
-517,EZY,Easy
-518,"""F"" Text Message & Chat Abbreviations",
-519,F,Meaning female
-520,F2F,Face to face
-521,F2P,Free to play (online gaming)
-522,F4F,Follow for follow (Instagram)
-523,FAAK,Falling asleep at keyboard
-524,FAB,Fabulous
-525,Facepalm,"Used to represent the gesture of ""smacking your forehead with your palm"" to express embarrassment or frustration"
-526,FAF,Funny as *freak*
-527,FAM,"FFamily, but not limited to actual family members. Could mean friends."
-528,FAQ,Frequently asked questions
-529,FAY,*Freak* all you
-530,FB,Facebook
-531,FBB,"Meaning ""Facebook buddy"""
-532,FBC,Facebook chat
-533,FBF,Flashback Friday
-534,FBF,"Meaning ""Facebook friend"""
-535,FBF,"Fat boy food (e.g. pizza, burgers, fries)"
-536,FBFR,FaceBook friend
-537,FBM,Fine by me
-538,FBO,Facebook official (An official update from Facebook)
-539,FBOW,For better or worse
-540,FC,Fingers crossed
-541,FC,Full card (online gaming)
-542,FC'INGO,For crying out loud
-543,FCOL,For crying out loud
-544,Feelsbadman,A social meme that means to feel negative.
-545,Feelsbatman,"A social meme taking ""feelsbadman"" to the extreme. This references the DC super hero Batmanbecause he witnessed the murder of his parents."
-546,Feelsgoodman,A social meme that means to feel positive.
-547,FEITCTAJ,*Freak* 'em if they can't take a joke
-548,FF,Follow Friday (Twitter slang)
-549,FFA,Free for all (online gaming)
-550,FFS,For *freak'*sakes
-551,FICCL,Frankly I couldn't care a less
-552,FIF,*Freak* I'm funny
-553,FIIK,*Freaked* if I know
-554,FIIOOH,"Forget it, I'm out of here"
-555,FIL,Father in law
-556,FIMH,Forever in my heart
-557,Finna,"Means ""Going to"""
-558,Finsta,A second Instagram account where someone can post things that they're too afraid to post on their main account.
-559,FIOS,Fiber Optic Service
-560,FISH,"First in, still here"
-561,FITB,Fill in the blank
-562,FML,*Freak* My Life
-563,FOAD,*Freak* off and die
-564,FOAF,Friend of a friend
-565,FOMC,Falling off my chair
-566,FOMCL,Falling off my chair laughing
-567,FOMO,Fear of missing out (definition)
-568,FRT,For real though
-569,FTBOMH,From the bottom of my heart
-570,FTFY,Fixed that for you
-571,FTL,For the loss
-572,FTW,For the win
-573,FU,*Freak* you
-574,FUBAR,Fouled up beyond all recognition
-575,FUBB,Fouled up beyond belief
-576,FUD,Face up deal (online gaming)
-577,FUTAB,"Feet up, take a break"
-578,FW,Forward
-579,FWB,Friend with benefits
-580,FWIW,For what it's worth
-581,FWM,Fine with me
-582,FWP,First world problems
-583,FYA,For your amusement
-584,FYE,"Fire, something that is cool"
-585,FYEO,For your eyes only
-586,FYI,For your information
-587,FYP,For You Page; For Your Page
-588,"""G"" Text Message & Chat Abbreviations",
-589,G,Grin
-590,G,Giggle
-591,G/F,Girlfriend
-592,G+,Google+
-593,G2CU,Good to see you
-594,G2G,Got to go
-595,G2GICYAL8ER,Got to go I'll see you later
-596,G2R,Got to run
-597,G2TU,Got to tell u (you)
-598,G4C,Going for coffee
-599,G9,Genius
-600,GA,Go ahead
-601,GA,Google Analytics
-602,GAC,Get a clue
-603,GAFC,Get a *freaking* clue
-604,GAL,Get a life
-605,GANK,Meaning a player ambush or unfair player kill (online gaming)
-606,GAS,Got a second?
-607,GAS,Greetings and salutations
-608,GB,Goodbye
-609,GBTW,Get back to work
-610,GBU,God bless you
-611,GD,Good
-612,GD/R,"Grinning, ducking, and running"
-613,GDR,"Grinning, ducking, and running"
-614,GF,Girl friend
-615,GFI,Go for it
-616,GFN,Gone for now
-617,GG,Gotta Go
-618,GG,Good Game (online gaming)
-619,GG,Brother (Mandarin Chinese txt msgs)
-620,GGA,"Good game, all (online gaming)"
-621,GGE1,"Good game, everyone (online gaming)"
-622,GGMSOT,Gotta get me some of that
-623,GGOH,Gotta Get Outa Here
-624,GGP,Got to go pee
-625,GGU2,"Good game, you too"
-626,GH,Good hand (online gaming)
-627,GIAR,Give it a rest
-628,GIC,Gift in crib (online gaming)
-629,GIF,Graphics Interchange Format (Image File)
-630,GIGO,"Garbage in, garbage out"
-631,GIRL,Guy in real life
-632,GJ,Good job
-633,GL,Good luck
-634,GL/HF,"Good luck, have fun (online gaming)"
-635,GL2U,Good luck to you (online gaming)
-636,GLA,Good luck all (online gaming)
-637,GLE,Good luck everyone (online gaming)
-638,GLE1,Good luck everyone (online gaming)
-639,GLNG,Good luck next game (online gaming)
-640,GMBA,Giggling my butt off
-641,GMTA,Great minds think alike
-642,GMV,Got my vote
-643,GN,Good night
-644,GNA,Good night all
-645,GNE1,Good night everyone
-646,GNIGHT,Good night
-647,GNITE,Good night
-648,GNSD,"Good night, sweet dreams"
-649,GOAT,Greatest of all Time(s)
-650,GOI,Get over it
-651,GOL,Giggling out loud
-652,GOMB,Get off my back
-653,GPOY,Gratuitous picture of yourself
-654,GR&D,"Grinning, running and ducking"
-655,GR8,Great
-656,GRAS,Generally Recognized As Safe
-657,GRATZ,Congratulations
-658,GRL,Girl
-659,GRWG,Get right with God
-660,GS,Good shot
-661,GS,Good split (online gaming)
-662,GT,Good try
-663,GTFO,Get the *freak* out
-664,GTFOH,Get the *freak* outta here
-665,GTG,Got to go; Good to Go
-666,GTM,Giggling to myself
-667,GTR,Got To Run
-668,GTRM,Going to read mail
-669,GTSY,Great (or good) to see you
-670,GUCCI,Good
-671,GUD,Good
-672,GWHTLC,Glad we had this little chat
-673,"""H"" Text Message & Chat Abbreviations",
-674,H,Hug
-675,H-BDAY,Happy Birthday
-676,H-FDAY,Happy Father's Day
-677,H-MDAY,Happy Mother's Day
-678,H&K,Hugs & kisses
-679,H2CUS,Hope to see you soon
-680,H8,Hate
-681,H8TTU,Hate to be you
-682,HAG1,Have a good one
-683,HAGN,Have a good night
-684,HAGO,Have a good one
-685,HAK,Hug and kiss
-686,HAK,Hugs And Kisses
-687,HALP,Help (Discord)
-688,HAND,Have a nice day
-689,HAU,How about you?
-690,HAWT,"Have a wonderful day (out-dated, see next in list)"
-691,HAWT,"Meaning ""sexy"" or ""attractive"""
-692,HB,Hurry back
-693,HB,Hug back
-694,HBD,Happy birthday
-695,HBU,How about you?
-696,HF,Have fun
-697,HFAC,Holy flipping animal crackers
-698,HHIS,Head hanging in shame
-699,HIFW,How I felt when... (Used with photo or gif)
-700,HL,Half Life (online gaming)
-701,HLA,Hola / hello (Spanish SMS)
-702,HMB,Hit Me Back
-703,HMU,Hit me up
-704,HNL,(w)Hole 'nother level
-705,HOAS,Hold on a second
-706,HP,Hit points / Health points (online gaming)
-707,HRU,How are you?
-708,HT,Hat Tip (a way to say thanks)
-709,HTH,Hope this helps; Happy to Help
-710,HTML,Hyper Text Markup Language (coding lingo)
-711,HUB,Head up butt
-712,HUYA,Head up your *butt*
-713,HV,Have
-714,HVH,Heroic Violet Hold (online gaming)
-715,HW,Homework
-716,HYFR,"Hell yeah, *Freaking* right!"
-717,"""I"" Text Message & Chat Abbreviations",
-718,I2,I too (me too)
-719,IA8,I already ate
-720,IAAA,I am an accountant
-721,IAAD,I am a doctor
-722,IAAL,I am a lawyer
-723,IAC,In any case
-724,IAE,In any event
-725,IANAC,I am not a crook
-726,IANAD,I Am Not A Doctor
-727,IANAL,I am not a lawyer
-728,IAO,I am out (of here)
-729,IB,I'm back
-730,IB,I'm back
-731,IB,Inspired By
-732,IC,I see
-733,ICAM,I couldn't agree more
-734,ICBW,It could be worse
-735,ICEDI,I can't even discuss it
-736,ICFILWU,I could fall in love with you
-737,ICYMI,In case you missed it (Twitter slang)
-738,IDBI,I don't believe it
-739,IDC,I don't care
-740,IDGAF,I don't give a *freak*
-741,IDK,I don't know
-742,IDTS,I don't think so
-743,IDUNNO,I don't know
-744,IFYP,I feel your pain
-745,IG,Instagram
-746,IG2R,I got to run
-747,IGHT,I got high tonight
-748,IGN,I (I've) got nothing
-749,IGP,I got to (go) pee
-750,IHNI,I have no idea
-751,IIIO,"Intel inside, idiot outside"
-752,IIRC,If I remember correctly
-753,IK,I know
-754,IKR,"I know, right?"
-755,ILBL8,I'll be late
-756,ILU,I love you
-757,ILUM,I love you man
-758,ILY,I love you
-759,ILYSM,I love you so much
-760,IM,Instant message
-761,IMAO,In my arrogant opinion
-762,IMHO,In my humble opinion
-763,ImL,(in Arial font) Means I love you (a way of using the American sign language in text)
-764,IMNSHO,In my not so humble opinion
-765,IMO,In my opinion
-766,IMS,I am sorry
-767,IMSB,I am so bored
-768,IMTM,I am the man
-769,IMU,I miss u (you)
-770,INAL,I'm not a lawyer
-771,INC,"Meaning ""incoming"" (online gaming)"
-772,Inspoo,Inspiration
-773,INV,"Meaning ""Invite"""
-774,IO,Insertion Order (marketing lingo)
-775,IOMH,In over my head
-776,IOW,In other words
-777,IRL,In real life
-778,IRMC,I rest my case
-779,ISLY,I still love you
-780,ISO,In search of
-781,ISP,Internet Service Provider
-782,ISTG,I Swear To God
-783,ITAM,"It's The Accounting, Man (financial blogs)"
-784,ITT,In This Thread
-785,ITYK,I thought you knew
-786,IU2U,It’s Up To You
-787,IUSS,If you say so
-788,IWALU,I will always love you
-789,IWAWO,I want a way out
-790,IWIAM,Idiot wrapped in a moron
-791,IWNDWYT,I Will Not Drink With You Today (Reddit slang)
-792,IWSN,I want sex now
-793,IYKWIM,If you know what I mean
-794,IYO,In your opinion
-795,IYQ,"Meaning ""I like you"""
-796,IYSS,If you say so
-797,"""J"" Text Message & Chat Abbreviations",
-798,j00,You
-799,j00r,Your
-800,JAC,Just a second
-801,JAM,Just a minute
-802,JAS,Just a second
-803,JC (J/C),Just checking
-804,JDI,Just do it
-805,JELLY,"Meaning ""jealous"""
-806,JFF,Just for fun
-807,JFGI,Just *freaking* Google it
-808,JIC,Just in case
-809,JJ (J/J),Just joking
-810,JJA,Just joking around
-811,JK (J/K),Just kidding
-812,JLMK,Just let me know
-813,JMO,Just my opinion
-814,JP,Just playing
-815,JP,"Jackpot (online gaming, bingo games)"
-816,JT (J/T),Just teasing
-817,JTLYK,Just to let you know
-818,JV,Joint venture
-819,JW,Just wondering
-820,"""K"" Text Message & Chat Abbreviations",
-821,K,Okay
-822,k/b,Keyboard
-823,K8T,Katie
-824,KB,Keyboard
-825,KB,Kick butt (online gaming)
-826,KDFU,Means Cracking (K) the (D as in Da) *freak* up
-827,KEWL,Cool
-828,KEYA,I will key you later
-829,KEYME,Key me when you get in
-830,KFY,Kiss for you
-831,KIA,Know it all
-832,KIR,Keep it real
-833,KISS,"Keep it simple, stupid"
-834,KIT,Keep in touch
-835,KK,"Knock, knock"
-836,KK,"Okay, Okay!"
-837,KMA,Kiss my *a*
-838,KMK,Kiss my keister
-839,KMS,Killing myself
-840,KMT,Kiss my tushie
-841,KNIM,Know what I mean?
-842,KNOW,"Meaning ""knowledge"""
-843,KOC,Kiss on cheek
-844,KOL,Key opinion leader
-845,Koreaboo,Someone obsessed with Korean culture
-846,KOS,Kid over shoulder
-847,KOS,Kill on sight (online gaming)
-848,KOTC,Kiss on the cheek
-849,KOTD,Kicks of the day (Instagram)
-850,KOTL,Kiss on the lips
-851,KOW,Knock on wood
-852,KPC,Keeping parents clueless
-853,KPI,Key Performance Indicator
-854,KS,Kill then steal (online gaming)
-855,KSC,Kind (of) sort (of) chuckle
-856,KT,Katie
-857,KUTGW,Keep up the good work
-858,KYS,Kill yourself
-859,"""L"" Text Message & Chat Abbreviations",
-860,L2G,Like to go?
-861,L2G,(would) Love to go
-862,L2K,Like to come
-863,L2P,Learn to play
-864,l33t,"Leet, meaning 'elite'"
-865,L4L,Like for like (Instagram)
-866,L8R,Later
-867,L8RG8R,"Later, gator"
-868,LAB,Life's a *b*
-869,LBAY,Laughing back at you
-870,LBS,"Laughing, but serious"
-871,LBVS,"Laughing, but very serious"
-872,LBVS,Laughing But Very Serious
-873,LD,"Later, dude"
-874,LD,Long distance
-875,LDO,"Like, duh obviously"
-876,LEMENO,Let me know
-877,LERK,Leaving easy reach of keyboard
-878,LFD,Left for day
-879,LFG,Looking for group (online gaming)
-880,LFG,Looking for guard (online gaming)
-881,LFM,Looking for more (online gaming)
-882,LGH,Lets get high
-883,LH6,Lets have sex
-884,LHM,Lord help me
-885,LHO,Laughing head off
-886,LHSX,Lets have sex
-887,LI,LinkedIn
-888,LIC,Like I care
-889,LIK,Meaning liquor
-890,LIMT,Laugh in my tummy
-891,LIT,Meaning really good or something fun and exciting
-892,LIT,Extremely intoxicated
-893,LLGB,"Love, later, God bless"
-894,LLS,Laughing like *silly*
-895,LMAO,Laughing my *a* off
-896,LMBO,Laughing my butt off
-897,LMFAO,Laughing my freaking *a* off
-898,LMIRL,Lets meet in real life
-899,LMK,Let me know
-900,LMMFAO,Laughing my mother freaking a** off
-901,LMNK,Leave my name out
-902,LMS,Like my status (Facebook)
-903,LNT,Meaning lost in translation
-904,LOA,List of acronyms
-905,LOL,Laughing out loud
-906,LOL,Laugh out loud
-907,LOL,Lots of love
-908,LOLH,Laughing out loud hysterically
-909,LOLO,Lots of love
-910,LOLWTF,"Laughing out loud (saying) ""What the *freak*?"""
-911,LOTI,Laughing on the inside
-912,LOTR,Lord of The Rings (online gaming)
-913,LQTM,Laughing quietly to myself
-914,LSHMBH,Laugh so hard my belly hurts
-915,LSV,"Language, sex and violence"
-916,LTD,Living the dream
-917,LTK,Like To Know
-918,LTLWDLS,Let's twist like we did last summer
-919,LTNS,Long time no see
-920,LTOD,Laptop of death
-921,LTS,Laughing to self
-922,LULT,Love you long time
-923,LULZ,"Meaning joke, or for laughs"
-924,LVM,Left voice mail
-925,LWOS,Laughing without smiling
-926,LY,Love ya
-927,LYLAS,Love you like a sis
-928,LYLC,Love you like crazy
-929,LYSM,Love you so much
-930,"""M"" Text Message & Chat Abbreviations",
-931,M$,Microsoft
-932,M8,Mate
-933,MB,Mamma's boy
-934,MBS,Mom behind shoulder
-935,MC,Merry Christmas
-936,MCM,Man Crush Monday
-937,MDIAC,My Dad is a cop
-938,MEGO,My eyes glaze over
-939,MEH,"Meaning a ""shrug"" or shrugging shoulders"
-940,MEH,"Meaning a ""so-so"" or ""just okay"""
-941,MEHH,"Meaning a ""sigh"" or sighing"
-942,MEZ,"Meaning ""mesmerize"" (online gaming)"
-943,MFI,Mad for it
-944,MFW,My face when... (Used with photo or gif)
-945,MGB,May God bless
-946,MGMT,Management
-947,MHOTY,My hat (is) off to you
-948,MIRL,Me in real life
-949,MIRL,Meet in real life
-950,MISS.(number),"Meaning ""child and her age"". Miss.3 would be a 3-year old daughter"
-951,MKAY,"Meaning ""Mmm, okay"""
-952,MLM,Meaning give the middle finger
-953,MLM,Multi Level Marketing
-954,MM,Sister (Mandarin Chinese txt msg)
-955,MMK,Meaning okay? (as a question)
-956,MNC,Mother nature calls
-957,MNSG,Mensaje (message in Spanish)
-958,MOD,Moderator
-959,MOD,Modification (online gaming)
-960,MOMBOY,Mamma's boy
-961,MOO,My own opinion
-962,MOOS,Member of the opposite sex
-963,MORF,Male or female?
-964,MOS,Mother over shoulder
-965,MOSS,Member of same sex
-966,MP,Mana points (online gaming)
-967,MR.(number),"Meaning ""child and his age"". Mr.3 would be a 3-year old son"
-968,MRT,Modified ReTweet (Twitter slang)
-969,MRW,My reaction when... (Used with photo or gif)
-970,MSG,Message
-971,MTF,More to follow
-972,MTFBWU,May the force be with you
-973,MTFBWY,May The Force Be With You (Star Wars movie slang)
-974,MU,Miss U (you)
-975,MUAH,Multiple unsuccessful attempts (at/to) humor
-976,MUSM,Miss you so much
-977,MWAH,"Meaning ""kiss"" (it is is the sound made when kissing through the air)"
-978,MYO,Mind your own (business)
-979,MYOB,Mind your own business
-980,"""N"" Text Message & Chat Abbreviations",
-981,n00b,"Noob, newbie"
-982,N1,Nice one
-983,N2M,Nothing too much
-984,NADT,Not a darn thing
-985,NALOPKT,Not a lot of people know that
-986,NANA,"Not now, no need"
-987,NBD,No big deal
-988,NBFAB,No bad for a beginner (online gaming)
-989,NC,Nice crib (online gaming)
-990,ND,Nice double (online gaming)
-991,NE,Any
-992,NE1,Anyone
-993,NERF,"Meaning ""Changed and is now weaker"" (online gaming)"
-994,NFM,None for me / Not for me
-995,NFM,Not for me
-996,NFS,Need for Speed (online gaming)
-997,NFS,Not for sale
-998,NFW,No *freaking* way
-999,NFW,Not for work
-1000,NFWS,Not for work safe
-1001,NGL,Not gonna (going to) lie
-1002,NH,Nice hand (online gaming)
-1003,NIFOC,Naked in front of computer
-1004,NIGI,Now I get it
-1005,NIMBY,Not in my back yard
-1006,NIROK,Not in reach of keyboard
-1007,NLT,No later than
-1008,NM,Nothing much
-1009,NM,Never mind
-1010,NM,Nice meld (online gaming)
-1011,NMH,Not much here
-1012,NMJC,"Nothing much, just chilling"
-1013,NMU,"Not much, you?"
-1014,NO1,No one
-1015,NOOB,Meaning someone who is bad at (online) games
-1016,NOWL,"Meaning ""knowledge"""
-1017,NOYB,None of your business
-1018,NP,No problem
-1019,NPC,Non-playing character (online gaming)
-1020,NQT,Newly qualified teacher
-1021,NR,Nice roll (online gaming)
-1022,NRN,No response/reply necessary
-1023,NS,Nice score (online gaming)
-1024,NS,Nice split (online gaming)
-1025,NSA,No strings attached
-1026,NSFL,Not safe for life
-1027,NSFW,Not safe for work
-1028,NSISR,Not sure if spelled right
-1029,NT,Nice try
-1030,NTH,Nice To Have
-1031,NTHING,Nothing (SMS)
-1032,NTS,Note to self
-1033,NVM,Never mind
-1034,NVR,Never
-1035,NW,No way
-1036,NWO,No way out
-1037,"""O"" Text Message & Chat Abbreviations",
-1038,O,Opponent (online gaming)
-1039,O,"Meaning ""hugs"""
-1040,O,Over
-1041,O4U,Only for you
-1042,OA,Online auctions (see more auction abbreviations)
-1043,OAN,On Another Note
-1044,OATUS,On a totally unrelated subject
-1045,OB,Oh baby
-1046,OB,Oh brother
-1047,OBV,Obviously
-1048,OC,Original Content
-1049,OFC,Of course
-1050,OG,Original gangster
-1051,OGIM,"Oh God, it's Monday"
-1052,OH,Overheard
-1053,OHHEMMGEE,"Meaning ""Oh My God"" (alternate of OMG)"
-1054,OI,Operator indisposed
-1055,OIB,"Oh, I'm back"
-1056,OIC,"Oh, I see"
-1057,OJ,Only joking
-1058,OL,Old lady
-1059,OLL,Online love
-1060,OM,Old man
-1061,OM,"Oh, my"
-1062,OMAA,"Oh, my aching *A* (butt)"
-1063,OMDB,Over my dead body
-1064,OMFG,Oh my *freaking* God
-1065,"omfglmaobbqrofl"" ""copteriss","oh my *freaking* god, laugh my *a* off, owned, roll on floor spinning around I'm so sad"
-1066,OMG,Oh my God
-1067,OMG,Oh my gosh
-1068,OMGYG2BK,"Oh my God, you got to be kidding"
-1069,OMGYS,Oh my gosh you suck
-1070,OML,Oh My Lord
-1071,OMS,"On my soul (meaning ""promise"")"
-1072,OMW,On my way
-1073,ONL,Online
-1074,OO,Over and out
-1075,OOC,Out of character
-1076,OOH,Out of here
-1077,OOMF,One of my followers
-1078,OOO,Out Of Office
-1079,OOTD,One of these days
-1080,OOTD,Outfit of the day (Instagram)
-1081,OOTO,Out of the office
-1082,OP,On phone
-1083,OP,Original Poster (Reddit slang)
-1084,ORLY,Oh really?
-1085,OS,Operating system
-1086,OT,Off topic (discussion forums)
-1087,OT,Off Topic
-1088,OTB,Off to bed
-1089,OTFL,On the floor laughing
-1090,OTL,Out to lunch
-1091,OTOH,On the other hand
-1092,OTP,On the phone
-1093,OTP,One true pairing; two people you would love to see as a couple
-1094,OTT,Over the top
-1095,OTTOMH,Off the top of my head
-1096,OTW,Off to work
-1097,OVA,Over
-1098,OYO,On your own
-1099,"""P"" Text Message & Chat Abbreviations",
-1100,P,Partner (online gaming)
-1101,P2P,Parent to parent
-1102,P2P,Peer to peer
-1103,P2P,Pay to play (online gaming)
-1104,P911,Parents coming into room alert
-1105,PAP,Post a picture
-1106,PAT,"Meaning ""patrol"" (online gaming)"
-1107,PAW,Parents are watching
-1108,PBOOK,Phonebook (e-mail)
-1109,PC,Player character (online gaming)
-1110,PCM,Please call me
-1111,PDA,Personal display (of) affection
-1112,PDH,Pretty darn happy
-1113,PDQ,Pretty darn quick
-1114,PDS,Please don't shoot
-1115,PEEPS,People
-1116,PFT,Pretty *freaking* tight
-1117,PIC,Picture
-1118,PIN,Personal Identification Number
-1119,PIP,Peeing in pants (laughing hard)
-1120,PIR,Parents in room
-1121,PISS,Put in some sugar
-1122,PITA,Pain in the *butt*
-1123,PKI,Public Key Infrastructure
-1124,PKMN,Pokemon (online gaming)
-1125,PL8,Plate
-1126,PLD,Played
-1127,PLMK,Please let me know
-1128,PLS,Please
-1129,PLU,People like us
-1130,PLZ,Please
-1131,PLZTLME,Please tell me
-1132,PM,Private Message
-1133,PMFI,Pardon me for interrupting
-1134,PMFJI,Pardon me for jumping in
-1135,PMSL,Pee myself laughing
-1136,POAHF,Put on a happy face
-1137,POIDH,"Picture, or it didn't happen"
-1138,POS,Parent over shoulder
-1139,POT,"Meaning ""potion"" (online gaming)"
-1140,POTD,Photo of the day (Instagram)
-1141,POV,Point of view
-1142,POV,Privately owned vehicle (originally used to differentiate an individual's vehicle from a military vehicle)
-1143,PP,Profile Picture
-1144,PPL,People
-1145,PPU,Pending pick-up
-1146,PR,Page Rank; Public Relations
-1147,PRESH,Precious
-1148,PROBS,Probably
-1149,PROGGY,Meaning computer program
-1150,PROLLY,Probably
-1151,PRON,Meaning pornography
-1152,PRT,Party
-1153,PRT,Please Retweet (Twitter slang)
-1154,PRW,People/parents are watching
-1155,PSA,Public Service Announcement
-1156,PSOS,Parent standing over shoulder
-1157,PSP,Playstation Portable
-1158,PST,Please send tell (online gaming)
-1159,PTB,Please Text Back
-1160,PTFO,Pass the *freak* out
-1161,PTIYPASI,Put that in your pipe and smoke it
-1162,PTL,Praise the Lord
-1163,PTMM,Please tell me more
-1164,PTO,Paid time off
-1165,PTO,Personal time off
-1166,PTO,Parent Teacher Organization
-1167,PU,That stinks!
-1168,PUG,Pick up group (online gaming)
-1169,PUKS,Pick up kids (SMS)
-1170,PV,Page Views
-1171,PVE,"Player vs enemy, Player versus environment (online gaming)"
-1172,PVP,Player versus player (online gaming)
-1173,PWN,"Meaning ""own"""
-1174,PXT,Please explain that
-1175,PYT,Pretty young thing
-1176,PZ,Peace
-1177,PZA,Pizza
-1178,"""Q"" Text Message & Chat Abbreviations",
-1179,Q,Queue
-1180,Q4U,(I have a) question for you
-1181,QC,Quality control
-1182,QFE,Question for everyone
-1183,QFI,Quoted for idiocy
-1184,QFI,Quoted for irony
-1185,QFT,Quoted for truth
-1186,QIK,Quick
-1187,QL,Quit laughing
-1188,QOTD,Quote of the day
-1189,QQ,Quick question
-1190,QQ (qq) (Q_Q),"Meaning ""crying eyes"""
-1191,QSL,Reply
-1192,QSO,Conversation
-1193,QT,Cutie
-1194,QTPI,Cutie pie
-1195,"""R"" Text Message & Chat Abbreviations",
-1196,R,"Meaning ""are"""
-1197,R8,Rate (SMS)
-1198,RAK,Random Act (of) Kindness
-1199,RBAY,Right back at you
-1200,RFN,Right *freaking* now
-1201,RGR,"Roger (I agree, I understand)"
-1202,RHIP,Rank has its privileges
-1203,RIP,Rest in peace
-1204,RL,Real life
-1205,RLY,Really
-1206,RME,Rolling my eyes
-1207,RMLB,Read my lips baby
-1208,RMMM,Read my mail man
-1209,RN,Right Now
-1210,ROFL,Rolling on floor laughing
-1211,ROFLCOPTER,Rolling on floor laughing and spinning around
-1212,ROFLMAO,"Rolling on the floor, laughing my *butt* off"
-1213,ROI,Return on Investment
-1214,ROTFL,Rolling on the floor laughing
-1215,ROTFLUTS,Rolling on the floor laughing unable to speak
-1216,RS,Runescape (online gaming)
-1217,RSN,Real soon now
-1218,RSS,Rich Site Summary
-1219,RT,Roger that
-1220,RT,Retweet (Twitter slang)
-1221,RT,Real Time
-1222,RTBS,Reason to be single
-1223,RTD,Real Time Data
-1224,RTFM,Read the *freaking* manual
-1225,RTFQ,Read the *freaking* question
-1226,RTHX,"Meaning ""Thanks for the RT (Retweet)"" (Twitter slang)"
-1227,RTMS,"Read the manual, stupid"
-1228,RTNTN,"Retention (email, Government)"
-1229,RTRCTV,"Retroactive (email, Government)"
-1230,RTRMT,"Retirement (email, Government)"
-1231,RTSM,Read the stupid manual
-1232,RTWFQ,Read the whole *freaking* question
-1233,RU,Are you?
-1234,RUMOF,Are you male or female?
-1235,RUOK,Are you okay?
-1236,RUT,Are u (you) there?
-1237,RW,Real world
-1238,RX,Regards
-1239,RX,Meaning drugs or prescriptions
-1240,RYB,Read your Bible
-1241,RYO,Roll your own
-1242,RYS,Read your screen
-1243,RYS,Are you single?
-1244,"""S"" Text Message & Chat Abbreviations",
-1245,S'OK,Meaning It' (s) okay (ok)
-1246,S2R,Send to receive (meaning send me your picture to get mine)
-1247,S2S,Sorry to say
-1248,S4L,Spam for life
-1249,SaaS,Software As A Service
-1250,SAL,Such a laugh
-1251,SAT,Sorry about that
-1252,SAVAGE,Slang for a shockingly careless expression or response to an event or message
-1253,SB,Snap back (Snapchat)
-1254,SB,Should be
-1255,SB,Smiling back
-1256,SBIA,Meaning Standing back in amazement
-1257,SBT,Sorry 'bout that
-1258,SC,Stay cool
-1259,SD,Sweet dreams
-1260,SDMB,"Sweet dreams, my baby"
-1261,SELFIE,A photo that is taken of oneself for social media sharing (definition)
-1262,SEM,Search Engine Marketing
-1263,SENPAI,"Meaning someone older than you, someone you look up to"
-1264,SEO,Search engine optimization
-1265,SERP,Search Engine Results Page
-1266,SETE,Smiling Ear-to-Ear
-1267,SFAIK,So far as I know
-1268,SFLR,Sorry For (the) Late Reply
-1269,SFW,Safe For Work
-1270,SG,Sounds Good
-1271,SH,Same here
-1272,SH^,Shut up
-1273,SHID,Slapping head in disgust
-1274,SHIP,"Slang for ""wishing two people were in a relationship"""
-1275,SICNR,"Sorry, I could not resist"
-1276,SIG2R,"Sorry, I got to run"
-1277,SIHTH,Stupidity is hard to take
-1278,SIMYC,Sorry I missed your call
-1279,SIR,Strike it rich
-1280,SIS,Snickering in silence
-1281,SIS,Meaning sister
-1282,SIT,Stay in touch
-1283,SITD,Still in the dark
-1284,SJW,Social justice warrior
-1285,SK8,Skate
-1286,SK8NG,Skating
-1287,SK8R,Skater
-1288,SK8RBOI,Skater Boy
-1289,SLAP,Sounds like a plan
-1290,Slay,To succeed at something
-1291,SM,Social media
-1292,SMART,"Specific, measurable, attainable, realistic, time"
-1293,SMAZED,Smoky haze (marijuana stoned)
-1294,SMB,Small to midsize business
-1295,SMEXI,"Combination of sexy and Mexican, used to describe attractive people"
-1296,SMH,Shaking my head
-1297,SMHID,Scratching my head in disbelief
-1298,SMM,Social Media Marketing
-1299,SMO,Social Media Optimization
-1300,SMP,Social Media Platform
-1301,SMS,Short Message Service (Text Message)
-1302,SNAFU,Situation normal all fouled up
-1303,SNERT,Snot nosed egotistical rude teenager
-1304,SNR,Streaks and Recents (Snapchat)
-1305,SO,Significant other
-1306,SOAB,Son of a *B*
-1307,SOL,Sooner or later
-1308,SOML,Story Of My Life
-1309,SOMY,Sick of me yet?
-1310,SOP,Standard Operating Procedure
-1311,SorG,Straight or Gay?
-1312,SOS,Meaning help
-1313,SOS,Son of Sam
-1314,SOT,Short of time
-1315,SOTMG,"Short of time, must go"
-1316,SOV,Share Of Voice
-1317,SOWM,Someone with me
-1318,SPK,Speak (SMS)
-1319,SPST,"Same place, same time"
-1320,SPTO,Spoke to
-1321,SQ,Square
-1322,SRP,Social Relationship Platform
-1323,SRSLY,Seriously
-1324,SRY,Sorry
-1325,SS,So sorry
-1326,SSDD,"Same stuff, different day"
-1327,SSIF,So stupid it's funny
-1328,SSINF,So stupid it's not funny
-1329,SSL,Secure Sockets Layer
-1330,ST&D,Stop texting and drive
-1331,Stan,Meaning a die-hard fan of someone (Snapchat)
-1332,STFU,Shut the *freak* up
-1333,STR8,Straight
-1334,STW,Search the Web
-1335,SU,Shut up
-1336,SUITM,See you in the morning
-1337,SUL,See you later
-1338,SUP,What's up?
-1339,SUTH,So use(d) to haters (Facebook)
-1340,SUX,"Meanings sucks or ""it sucks"""
-1341,SUYF,Shut up you fool
-1342,SWAG,Meaning free stuff and giveaways from tech tradeshows (definition)
-1343,SWAG,Scientific wild *a* guess
-1344,SWAK,Sent (or sealed) with a kiss
-1345,SWALK,Sealed (or sealed) with a loving kiss
-1346,SWAT,Scientific wild *butt* guess
-1347,SWL,Screaming with laughter
-1348,SWMBO,She who must be obeyed. Meaning wife or partner
-1349,SYL,See you later
-1350,SYS,See you soon
-1351,SYY,Shut your yapper
-1352,"""T"" Text Message & Chat Abbreviations",
-1353,T:)T,Think happy thoughts
-1354,T+,Think positive
-1355,T4BU,Thanks for being you
-1356,TA,Thanks a lot
-1357,TAFN,That's all for now
-1358,TAM,Tomorro a.m.
-1359,TANK,Meaning really strong
-1360,TANKED,"Meaning ""owned"""
-1361,TANKING,"Meaning ""owning"""
-1362,TARFU,Things Are Really *fouled* Up.
-1363,TAU,Thinking about u (you)
-1364,TAUMUALU,Thinking about you miss you always love you
-1365,TBA,To Be Announced
-1366,TBAG,"Process of disgracing a corpse, taunting a fragged/killed player (online gaming)"
-1367,TBBH,To be brutally honest
-1368,TBC,To be continued
-1369,TBD,To be determined
-1370,TBH,To be honest
-1371,TBL,Text back later
-1372,TBT,Throwback Thursday (Twitter slang)
-1373,TC,Take care
-1374,TCB,Take care of business
-1375,TCOY,Take care of yourself
-1376,TD,Tower defense (online gaming)
-1377,TD2M,Talk dirty to me
-1378,TDTM,Talk dirty to me
-1379,TEA,Meaning gossip
-1380,TFF,Too *freaking* funny
-1381,TFS,Thanks for sharing
-1382,TFTF,Thanks for the follow (Twitter slang)
-1383,TFTI,Thanks for the invitation
-1384,TFTT,Thanks for this tweet (Twitter slang)
-1385,TFW,That Feeling When
-1386,TG,Thank goodness
-1387,TGIF,Thank God it's Friday
-1388,THNQ,Thank-you (SMS)
-1389,THNX,Thanks
-1390,THOT,That wh*re over there
-1391,THT,Think happy thoughts
-1392,THX,Thanks
-1393,TIA,Thanks in advance
-1394,TIAD,Tomorrow is another day
-1395,TIC,Tongue-in-cheek
-1396,TIL,Today I learned
-1397,TILIS,Tell it like it is
-1398,TIME,Tears In My Eyes
-1399,TIR,Teacher in room
-1400,TL,Too long
-1401,TL;DR,Too long; didn't read
-1402,TLK2UL8R,Talk to you later
-1403,TM,Trust me
-1404,TMA,Take my advice
-1405,TMB,Text me back
-1406,TMB,Tweet me back (Twitter slang)
-1407,TMI,Too much information
-1408,TMOT,Trust me on this
-1409,TMRW,Tomorrow
-1410,TMTH,Too much to handle
-1411,TMWFI,Take my word for it
-1412,TMYL,Tell me your location
-1413,TNSTAAFL,There's no such thing as a free lunch
-1414,TNT,Til next time
-1415,TNTL,Trying Not To Laugh
-1416,TOJ,Tears of joy
-1417,TOS,Terms of service
-1418,TOTES,Totally
-1419,TOU,Thinking of you
-1420,TOY,Thinking of you
-1421,TPM,Tomorrow p.m.
-1422,TPTB,The powers that be
-1423,TQ,Te quiero / I love you (Spanish SMS)
-1424,TSH,Tripping so hard
-1425,TSL,Transport Layer Security
-1426,TSNF,That's so not fair
-1427,TSTB,"The sooner, the better"
-1428,TT,Trending topic (Twitter slang)
-1429,TTFN,Ta ta for now
-1430,TTG,Time to go
-1431,TTLY,Totally
-1432,TTP,To The Point
-1433,TTTT,These things take time
-1434,TTUL,Talk to you later
-1435,TTYAFN,Talk to you awhile from now
-1436,TTYL,Talk to you later
-1437,TTYS,Talk to you soon
-1438,TU,Thank you
-1439,TUI,Turning you in
-1440,TURNT,"Meaning excitement, turned up"
-1441,TWSS,That's what she said
-1442,TX,Thanks
-1443,TY,Thank you
-1444,TYAFY,Thank you and *freak* you
-1445,TYFC,Thank you for charity (online gaming)
-1446,TYFYC,Thank you for your comment
-1447,TYS,Told you so
-1448,TYSO,Thank you so much
-1449,TYT,Take your time
-1450,TYVM,Thank you very much
-1451,"""U"" Text Message & Chat Abbreviations",
-1452,U-L,"Meaning ""You will"""
-1453,UCMU,You crack me up
-1454,UDI,"Unidentified drinking injury (meaning bruise, scratch, ache and so on)"
-1455,UDM,U (You) da (the) man
-1456,UDS,Ugly domestic scene
-1457,UFB,Un *freaking* believable
-1458,UFN,Until further notice
-1459,UFWM,You *freaking* with me?
-1460,UGC,User Generated Content
-1461,UGTBK,You've got to be kidding
-1462,UHGTBSM,You have got to be s#$t*ing me!
-1463,UI,User Interface
-1464,UKTR,You know that's right
-1465,UL,Upload
-1466,UN4TUN8,Unfortunate
-1467,UNA,Use no acronyms
-1468,UNBLEFBLE,Unbelievable
-1469,UNCRTN,Uncertain
-1470,UNPC,Un- (not) politically correct
-1471,UOK,(Are) You ok?
-1472,UR,You are / You're
-1473,UR2YS4ME,You are too wise for me
-1474,URA*,You are a star
-1475,URH,You are hot (U R Hot)
-1476,URL,Uniform resource locator (the website address)
-1477,URSKTM,You are so kind to me
-1478,URTM,You are the man
-1479,URW,You are welcome
-1480,USBCA,Until something better comes along
-1481,USU,Usually
-1482,UT,Unreal Tournament (online gaming)
-1483,UT2L,You take too long
-1484,UTM,You tell me
-1485,UV,Unpleasant visual
-1486,UV,Unique Views (Number of page visitors)
-1487,UW,You're welcome
-1488,UX,User experience
-1489,"""V"" Text Message & Chat Abbreviations",
-1490,V,Very
-1491,V/R,Very Respectfully
-1492,VAT,Value added tax
-1493,VBL,Visible bra line
-1494,VBS,Very big smile
-1495,VC,Voice chat
-1496,VEG,Very evil grin
-1497,VFF,Very freaking funny
-1498,VFM,Value for money
-1499,VGC,Very good condition
-1500,VGG,Very good game (online gaming)
-1501,VGH,Very good hand (online gaming)
-1502,VIN,Vehicle Identification Number
-1503,VIP,Very important person
-1504,VM,Voice mail
-1505,VN,Very nice
-1506,VNH,Very nice hand (online gaming)
-1507,VoIP,Voice over Internet Protocol (definition)
-1508,VRY,Very
-1509,VSC,Very soft chuckle
-1510,VSF,Very sad face
-1511,VWD,Very well done (online gaming)
-1512,VWP,Very well played (online gaming)
-1513,"""W"" Text Message & Chat Abbreviations",
-1514,W@,What?
-1515,W/,With
-1516,W/B,Welcome back
-1517,W/B,Write back
-1518,W/E,Whatever
-1519,W/END,Weekend
-1520,W/O,Without
-1521,W3,WWW (Web address)
-1522,W8,Wait
-1523,WAH,Working at home
-1524,WAJ,What a jerk
-1525,WAM,Wait a minute
-1526,WAN2,Want to? (SMS)
-1527,WAN2TLK,Want to talk
-1528,WAREZ,Meaning pirated (illegally gained) software
-1529,WAS,Wait a second
-1530,WAS,Wild *a* guess
-1531,WAT,What
-1532,WAWA,Where are we at?
-1533,WAYF,Where are you from?
-1534,WB,Welcome back
-1535,WBS,Write back soon
-1536,WBU,What about you?
-1537,WBW,Way Back Wednesday
-1538,WC,Welcome
-1539,WC,Who cares
-1540,WCA,Who cares anyway
-1541,WCW,Women Crush Wednesday
-1542,WDALYIC,Who died and left you in charge
-1543,WDYK,What do you know?
-1544,WDYM,What Do You Mean
-1545,WDYT,What do you think?
-1546,WE,Whatever
-1547,WEBO,Webopedia
-1548,WEEBO,Describes a person obsessed with of Japanese culture
-1549,WEP,Weapon (online gaming)
-1550,WFH,Work From Home
-1551,WGACA,What do you think?
-1552,WH5,"Who, what, when, where, why"
-1553,WHATEVES,Whatever
-1554,WIBNI,Wouldn't it be nice if
-1555,WIIFM,What's in it for me?
-1556,WISP,Winning is so pleasurable
-1557,WITP,What is the point?
-1558,WITW,What in the world
-1559,WIU,Wrap it up
-1560,WK,Week
-1561,WKD,Weekend
-1562,WL,Whatta loser
-1563,WOA,Work of Art
-1564,WOKE,"Slang for people who are aware of current social issues, and politics"
-1565,WOM,Word of Mouth
-1566,WOMBAT,"Waste of money, brains and time"
-1567,WOW,World of Warcraft (online gaming)
-1568,WRK,Work
-1569,WRT,With regard to
-1570,WRU,Where are you?
-1571,WRU@,Where are you at?
-1572,WRUD,What are you doing?
-1573,WTB,Want to buy (online gaming)
-1574,WTF,What the *freak* ?
-1575,WTFE,What the *freak* ever
-1576,WTFO,"What the *freak* ?, over."
-1577,WTG,Way to go
-1578,WTGP,Want to go private (talk out of public chat area)
-1579,WTH,What the heck?
-1580,WTM,Who's the man?
-1581,WTS,Want to sell? (online gaming)
-1582,WTT,Want to trade? (online gaming)
-1583,WU,What's up?
-1584,WUCIWUG,What you see is what you get
-1585,WUF,Where are you from?
-1586,WUP,What's up?
-1587,WUT,"Meaning ""what"""
-1588,WUU2,What are you up to?
-1589,WUW,What u (you) want?
-1590,WUZ,"Meaning ""was"""
-1591,WWJD,What would Jesus do?
-1592,WWJD,"What Would Judd Do? (Artist Donald Judd, who was known to do things in his own compulsive way.)"
-1593,WWNC,Will wonders never cease
-1594,WWYC,Write when you can
-1595,WYCM,Will you call me?
-1596,WYD,What (are) you doing?
-1597,WYGAM,When you get a minute
-1598,WYHAM,When you have a minute
-1599,WYLEI,When you least expect it
-1600,WYSIWYG,What you see is what you get
-1601,WYWH,Wish you were here
-1602,"""X"" Text Message & Chat Abbreviations",
-1603,X,Kiss
-1604,X-1-10,"Meaning ""Exciting"""
-1605,X!,"Meaning ""a typical woman"""
-1606,XD,"Meaning ""really hard laugh"" (where D is a smiley mouth)"
-1607,XD,"Meaning a ""devilish smile"""
-1608,XLNT,Excellent
-1609,XLR8,"Meaning ""faster"" or ""going faster"""
-1610,XME,Excuse Me
-1611,XOXOXO,Hugs & Kisses
-1612,XPOST,Meaning Cross-post. A link posted to a subreddit that was already shared on a different subreddit (Reddit)
-1613,XYL,"Ex-young lady, meaning wife. (amateur radio)"
-1614,XYZ,Examine your zipper
-1615,"""Y"" Text Message & Chat Abbreviations",
-1616,Y,Meaning Yawn
-1617,Y?,Why?
-1618,Y2K,You're too kind
-1619,YA,Your
-1620,YAA,Yet another acronym
-1621,YABA,Yet another bloody acronym
-1622,YARLY,"Ya, really?"
-1623,YAS,"Meaning ""praise"""
-1624,YBIC,Your brother in Christ
-1625,YBS,You'll be sorry
-1626,YCDBWYCID,You can't do business when your computer is down
-1627,YCHT,You can have them
-1628,YCLIU,You can look it up
-1629,YCMU,You crack me up
-1630,YCT,Meaning Your comment to?
-1631,YD,Yesterday
-1632,YEET,"Meaning excitement, approval or display of energy (i.e. throwing something)"
-1633,YF,Wife
-1634,YG,Young gentleman
-1635,YGG,You go girl
-1636,YGM,You Get Me
-1637,YGTBKM,You've got to be kidding me
-1638,YGTI,You Get The Idea
-1639,YGTR,You got that right
-1640,YHBT,You have been trolled
-1641,YHBW,You have been warned
-1642,YHL,You have lost
-1643,YIU,"Yes, I understand"
-1644,YKW,You know what
-1645,YKWYCD,You know what you can do
-1646,YL,Young lady
-1647,YMMV,Your mileage may vary
-1648,YNK,You never know
-1649,YOLO,You only live once
-1650,YP,"Yes, Please"
-1651,YR,Your
-1652,YR,Yeah right
-1653,YRYOCC,You're running your own cuckoo clock
-1654,YSIC,Your sister in Christ
-1655,YSK,You Should Know
-1656,YSYD,Yeah sure you do
-1657,YT,YouTube
-1658,YT,You there?
-1659,YTB,You're the best
-1660,YTB,Youth talk back
-1661,YTG,You're the greatest
-1662,YTTL,You take too long
-1663,YW,You're welcome
-1664,YWHNB,"Yes, we have no bananas"
-1665,YWHOL,"Yelling ""woohoo"" out loud"
-1666,YWSYLS,"You win some, you lose some"
-1667,YYSSW,"Yeah, yeah, sure, sure, whatever"
-1668,"""Z"" Text Message & Chat Abbreviations",
-1669,Z,Zero
-1670,Z,Zs are calling (meaning going to bed/sleep)
-1671,Z,"Meaning ""Said"""
-1672,Z%,Zoo
-1673,ZH,"Zero hour, sleeping hour"
-1674,ZOMG,Used in World of Warcraft to mean OMG (Oh My God)
-1675,ZOT,Zero tolerance
-1676,ZUP,"Meaning ""What's up?"""
-1677,ZZZZ,Sleeping (or bored)
+5,@TEOTD,At the end of the day
+6,*s*,"Meaning ""smile"""
+7,*w*,"Meaning ""wink"""
+8,^^,"Meaning ""read line"" or ""read message"" above"
+9,^5,High-five
+10,^URS,Up yours
+11,<3,"Meaning ""sideways heart"" (love, friendship)"
+12,<3333,"Meaning ""heart or love"" (more 3s is a bigger heart)"
+13,10M,Ten man as in ten man squad in online gaming
+14,10Q,Thank you
+15,10X,Thanks
+16,14AA41,"One for all, and all for one"
+17,1CE,Once
+18,1DR,I wonder
+19,1NAM,One in a million
+20,"1TG, 2TG",1 to go or 2 to go. Meaning number of items needed for win (online bingo)
+21,1UP,Meaning extra life (online gaming)
+22,2B,To be
+23,2EZ,Too easy
+24,2G2BT,Too good to be true
+25,2M2H,Too much too handle
+26,2MI,Too much information
+27,2MOR,Tomorrow
+28,2MORO,Tomorrow
+29,2N8,Tonight
+30,2NTE,Tonight
+31,4AO,For adults only
+32,4COL,For crying out loud
+33,4EAE,Forever and ever
+34,4EVA,Forever
+35,4NR,Foreigner
+36,4SALE,For sale
+37,6Y,Sexy
+38,7K,"Sick, really cool"
+39,A/N,Author's note
+40,A/S/L,Age/sex/location
+41,A3,"Anytime, anywhere, anyplace"
+42,AA,Alcoholics Anonymous
+43,AA,As above
+44,AA,Ask about
+45,AAF,As a matter of fact
+46,AAF,As a friend
+47,AAK,Asleep at keyboard
+48,AAK,Alive and kicking
+49,AAMOF,As a matter of fact
+50,AAMOI,As a matter of interest
+51,AAP,Aam Aadmi Party
+52,AAR,At any rate
+53,AAS,Alive and smiling
+54,AASHTA,"As always, Sheldon has the answer (Bike mechanic Sheldon Brown)"
+55,AATK,Always at the keyboard
+56,AAYF,"As always, your friend"
+57,ABBR,Meaning abbreviation
+58,ABC,Already been chewed
+59,ABD,Already been done
+60,ABT,About
+61,ABT2,Meaning 'About to'
+62,ABTA,Meaning Good-bye (signoff)
+63,ABU,All bugged up
+64,AC,Acceptable content
+65,ACC,Anyone can come
+66,ACD,ALT / CONTROL / DELETE
+67,ACDNT,"Accident (e-mail, Government)"
+68,ACE,"Meaning marijuana cigarette, or 3.5-4 grams of weed"
+69,ACK,Acknowledge
+70,ACPT,"Accept (e-mail, Government)"
+71,ACQSTN,"Acquisition (e-mail, Government)"
+72,ADAD,"Another day, another dollar"
+73,ADBB,"All done, bye-bye"
+74,ADD,Address
+75,ADDY,Address
+76,ADIH,Another day in hell
+77,ADIP,Another day in paradise
+78,ADMIN,Administrator
+79,ADMINR,Administrator (Government)
+80,ADN,Any day now
+81,ADR,Address
+82,AE,Area effect (online gaming)
+83,AEAP,As early as possible
+84,AF,as fuck
+85,AFAIAA,As far as I am aware
+86,AFAIC,As far as I am concerned
+87,AFAIK,As far as I know
+88,AFAIUI,As far as I understand it
+89,AFAP,As far as possible
+90,AFC,Away from computer
+91,AFFA,"Angels Forever, Forever Angels"
+92,AFJ,April Fool's joke
+93,AFK,Away from keyboard
+94,AFPOE,A fresh pair of eyes
+95,AFZ,Acronym Free Zone
+96,AGI,"Meaning ""agility"" (online gaming)"
+97,AH,At home
+98,AIAMU,And I am a money's uncle
+99,AIGHT,Alright
+100,AIR,As I remember
+101,AISB,As it should be
+102,AISB,As I said before
+103,AISI,As I see it
+104,AITR,Adult in the room
+105,AKA,Also known as
+106,ALCON,All concerned
+107,ALOL,Actually laughing out loud
+108,AMA,Ask me anything (Reddit)
+109,AMAP,As much as possible
+110,AMBW,All my best wishes
+111,AML,All my love
+112,AMOF,As a matter of fact
+113,AO,Anarchy Online (online gaming)
+114,AOC,Available on cell
+115,AOE,Area of effect (online game)
+116,AOM,Age of majority
+117,AOM,Age of Mythology (online gaming)
+118,AOTA,All of the above
+119,AOYP,Angel on your pillow
+120,APAC,All praise and credit
+121,API,Application Programming Interface
+122,APP,Application
+123,APP,Appreciate
+124,AQAP,As quick (or quiet) as possible
+125,ARC,Archive (compressed files)
+126,ARE,Acronym rich environment
+127,ARG,Argument
+128,ASAP,As soon as possible
+129,ASIG,And so it goes
+130,ASL,Age/sex/location
+131,ASLA,Age/sex/location/availability
+132,AT,At your terminal
+133,ATB,All the best
+134,ATEOTD,At the end of the day
+135,ATM,At the moment
+136,ATSITS,All the stars in the sky
+137,ATSL,Along the same line (or lines)
+138,AWC,After awhile crocodile
+139,AWESO,Awesome
+140,AWOL,Away without leaving
+141,AWOL,Absent without leave
+142,AYBABTU,All your base are belong to us (online gaming)
+143,AYDY,Are you done yet?
+144,AYEC,At your earliest convenience
+145,AYOR,At your own risk
+146,AYS,Are you serious?
+147,AYSOS,Are you stupid or something?
+148,AYT,Are you there?
+149,AYTMTB,And you're telling me this because
+150,AYV,Are you vertical?
+151,AYW,As you were
+152,AYW,As you want / As you wish
+153,AZN,Asian
+155,B,Back
+156,B,Be
+157,B-DAY,Birthday
+158,B/C,Because
+159,B/F,Boyfriend
+160,B/G,Background (personal information request)
+161,B&,Banned
+162,B2B,Business-to-business
+163,B2C,Business-to-consumer
+164,B2W,Back to work
+165,B4,Before
+166,B4N,Bye for now
+167,B8,"Bait (person teased or joked with, or under-aged person/teen)"
+168,B9,Boss is watching
+169,BA,Bad *a*
+170,BAE,Before anyone else
+171,BAE,Meaning Babe or baby
+172,BAFO,Best and final offer
+173,BAG,Busting a gut
+174,BAK,Back at keyboard
+175,BAM,Below average mentality
+176,BAMF,Bad *a* mother *f*
+177,BAO,Be aware of
+178,BAS,Big 'butt' smile
+179,BASIC,Meaning anything mainstream
+180,BASOR,Breathing a sigh of relief
+181,BAU,Business as usual
+182,BAY,Back at ya
+183,BB,Be back
+184,BB,Big brother
+185,BB,Bebi / Baby (Spanish SMS)
+186,BBC,Big bad challenge
+187,BBIAB,Be back in a bit
+188,BBIAF,Be back in a few
+189,BBIAM,Be back in a minute
+190,BBIAS,Be back in a sec
+191,BBL,Be back later
+192,BBN,"Bye, bye now"
+193,BBQ,"Barbeque, ""Ownage"", shooting score/frag (online gaming)"
+194,BBS,Be back soon
+195,BBT,Be back tomorrow
+196,BC,Because
+197,BC,Be cool
+198,BCNU,Be seeing you
+199,BCO,Big crush on
+200,BCOS,Because
+201,BCOY,Big crush on you
+202,BD,Big deal
+203,BDAY,Birthday
+204,BDN,Big darn number
+205,BEG,Big evil grin
+206,BELF,"Meaning ""Blood Elf"" (online gaming)"
+207,BF,Boyfriend
+208,BF,Brain fart
+209,BF,Best friend
+210,BF2,Battlefield 2 (online gaming)
+211,BFAW,Best friend at work
+212,BFD,Big freaking deal
+213,BFF,Best friends forever
+214,BFFL,Best friends for life
+215,BFFLNMW,"Best friends for life, no matter what"
+216,BFFN,Best friend for now
+217,BFG,Big freaking grin
+218,BFN,Bye for now
+219,BG,Big grin
+220,BGWM,Be gentle with me
+221,BHL8,Be home late
+222,BIB,Boss is back
+223,BIBO,"Beer in, beer out"
+224,BIC,Butt in chair
+225,BIF,Before I forget
+226,BIH,Burn in hell
+227,BIL,Brother in law
+228,BIO,"Meaning ""I'm going to the bathroom"" (or) ""Bathroom break"""
+229,BION,Believe it or not
+230,BIOYA,Blow it out your *a*
+231,BIOYN,Blow it out your nose
+232,BIS,Best in slot (online gaming)
+233,BISFLATM,"Boy, I sure feel like a turquoise monkey! (unverified)"
+234,BITMT,But in the meantime
+235,BL,Belly laugh
+236,BLNT,Better luck next time
+237,Bloke,Meaning Man (Discord)
+238,BM,Bite me
+239,BM&Y,Between me and you
+240,BME,Based on my experience
+241,BMS,"Broke my scale, used when rating someone"
+242,BN,Bad news
+243,BO,Body Odor
+244,BOB,Back off *buddy*
+245,BOE,"Meaning ""bind on equip"" (online gaming)"
+246,BOGO,Buy One Get One (Free)
+247,BOHICA,Bend over here it comes again
+248,BOL,Best of luck
+249,BOLO,Be on the look out
+250,BOM,*b* of mine
+251,BOOMS,Bored out of my skull
+252,BOP,"Meaning ""bind on pickup"" (online gaming)"
+253,BOPUS,"Buy Online, Pick Up In Store"
+254,BOSMKL,Bending over smacking my knee laughing
+255,BOT,Back on topic
+256,BOT,Be on that
+257,BOYF,Boyfriend
+258,BPLM,Big person little mind
+259,BR,Best regards
+260,BRB,Be right back
+261,BRBB,Be right back *b*
+262,BRD,Bored
+263,BRH,Be right here
+264,BRNC,"Be right back, nature calls"
+265,BRT,Be right there
+266,BSF,But seriously folks
+267,BSOD,Blue screen of death
+268,BSTS,Better safe than sorry
+269,BT,Bite this
+270,BT,Between technologies
+271,BTA,But then again
+272,BTDT,"Been there, done that"
+273,BTS,Behind The Scenes
+274,BTW,By the way
+275,BTYCL,Meaning 'Bootycall'
+276,BUBU,Slang term for the most beautiful of women
+277,Buff,"Meaning ""changed and is now stronger"" (online gaming)"
+278,BUMP,Bring Up My Post
+279,BURN,Used to reference an insult
+280,BWL,Bursting with laughter
+281,BYOB,Bring your own beer
+282,BYOC,Bring your own computer
+283,BYOD,Bring your own device
+284,BYOH,Bat you on (the) head
+285,BYOP,Bring your own paint (paintball)
+286,BYTM,Better you than me
+288,C/P,Cross post
+289,C&G,Chuckle & grin
+290,C2C,Customer to Customer
+291,C4N,Ciao for now
+292,CAD,Control + Alt + Delete
+293,CAD,Short for Canada/Canadian
+294,Cakeday,Meaning Birthday (Reddit)
+295,CAM,Camera (SMS)
+296,CB,Coffee break
+297,CB,Chat break
+298,CB,Crazy *b*
+299,CC,Carbon Copy
+300,CD9,"Code 9, Meaning ""parents are around"""
+301,CFS,Care for secret?
+302,CFY,Calling for you
+303,CHK,Check
+304,CIAO,Good-bye (Italian word)
+305,CICO,"Coffee in, coffee out"
+306,CID,Crying in disgrace
+307,CID,Consider it done
+308,CLAB,Crying like a baby
+309,CLD,Could
+310,CLK,Click
+311,CM,Call me
+312,CMAP,Cover my *a* partner (online gaming)
+313,CMB,Call me back
+314,CMGR,"Meaning ""Community manager"""
+315,CMIIW,Correct me if I'm wrong
+316,CMON,Come on
+317,CMS,Content Management System
+318,CNP,Continued (in) next post
+319,COB,Close of business
+320,COH,City of Heroes (online gaming)
+321,COS,Because
+322,CP,Chat post (or continue in IM)
+323,CPC,Cost Per Click
+324,CPM,Cost Per Mile (Used for ad impressions)
+325,CR,Conversion Rate
+326,CR8,Create
+327,CRA CRA,"Slang term meaning ""crazy"""
+328,CRAFT,Can't remember a *freaking* thing
+329,Cray,Meaning crazy
+330,CRB,Come right back
+331,CRBT,Crying really big tears
+332,CRE8,Create
+333,CRIT,"Meaning ""critical hit"" (online gaming)"
+334,CRS,Can't remember *stuff*
+335,CRZ,Crazy
+336,CS,Career Suicide
+337,CSG,"Chuckle, snicker, grin"
+338,CSL,Can't stop laughing
+339,CSS,Counter-Strike Source (online gaming)
+340,CT,Can't talk
+341,CTA,Call To Action
+342,CTC,Care to chat?
+343,CTHU,Cracking the *heck* up
+344,CTN,Can't talk now
+345,CTO,Check this out
+346,CTR,Click Through Rate
+347,CU,See you too
+348,CU,See you
+349,CU2,See you
+350,CUA,See you around
+351,CUL,See you later
+352,CUL8R,See you later
+353,CULA,See you later alligator
+354,CUMID,See you in my dreams
+355,CURLO,See you around like a donut
+356,CWD,Comment when done
+357,CWOT,Complete waste of time
+358,CWYL,Chat with you later
+359,CX,"Meaning ""Correction"""
+360,CX,Customer Experience
+361,CYA,See you
+362,CYAL8R,See you later
+363,CYE,Check your e-mail
+364,CYEP,Close your eyes partner (online gaming)
+365,CYO,See you online
+367,D/L,Download
+368,d00d,Dude
+369,D2,Dedos / fingers (Spanish SMS)
+370,D46?,Down for sex?
+371,DA,"Meaning ""The"""
+372,DAE,Does anyone else?
+373,DAFUQ,(What) the *Freak*?
+374,DAM,Don't annoy me
+375,DAoC,Dark Age of Camelot (online gaming)
+376,DBAU,Doing business as usual
+377,DBEYR,Don't believe everything you read
+378,DC,Disconnect
+379,DD,Dear (or Darling) daughter
+380,DD,Due diligence
+381,DDG,Drop dead gorgeous
+382,DEEZ NUTZ,A phrase used in online chat to annoy or frustrate those involved in the conversation.
+383,DEGT,Dear (or Darling) daughter
+384,DERP,Meaning stupid or silly
+385,DF,Don't even go there
+386,DFL,Dead *freaking* last (online gaming)
+387,DGA,Don't go anywhere
+388,DGAF,Don't give a *freak*
+389,DGT,Don't go there
+390,DGTG,"Don't go there, girlfriend"
+391,DGYF,"Dang, girl you fine"
+392,DH,Dear (or Darling) husband
+393,DHU,Dinosaur hugs (used to show support)
+394,DIIK,Darned if I know
+395,DIKU,Do I know you?
+396,DILLIGAF,Do I look like I give a *freak*?
+397,DILLIGAS,Do I look like I give a sugar?
+398,DIS,Did I say?
+399,DITYID,Did I tell you I'm distressed?
+400,DIY,Do it yourself
+401,DKDC,"Don't know, don't care"
+402,DKP,Dragon kill points (online gaming)
+403,DL,Download
+404,DL,Down low
+405,DL,Dead link
+406,DLBBB,Don't let (the) bed bugs bite
+407,DLTBBB,Don't let the bed bugs bite
+408,DM,Doesn't matter
+409,DM,Direct message (Twitter slang)
+410,DM,Do me
+411,DM,Dungeon Master (online gaming)
+412,DMNO,Dude Man No Offense
+413,DMY,Don't mess yourself
+414,DN,Down
+415,DNC,Do not compute (meaning I do not understand)
+416,DNR,Dinner (SMS)
+417,DNT,Don't
+418,DOE,Daughter of Eve
+419,DORBS,"Meaning ""Adorable"""
+420,DOT,Damage over time (online gaming)
+421,Downvote,Voting negatively on a thread using Reddit s voting system (Reddit)
+422,DPS,Damage per second (online gaming)
+423,DQMOT,Don't quote me on this
+424,DR,Didn't read
+425,DS,Dear (or Darling) son
+426,DTR,Define the relationship
+427,DTRT,Do the right thing
+428,DTS,Don't think so
+429,DTTD,Don't touch that dial
+430,DUPE,Duplicate
+431,DUR,Do you remember?
+432,DV8,Deviate
+433,DW,Dear (or Darling) wife
+434,DWBH,"Don’t Worry, Be Happy"
+435,DWF,Divorced white female
+436,DWH,During Work Hours
+437,DWM,Divorced white male
+438,DXNRY,Dictionary
+439,DYFI,Did you find it?
+440,DYFM,"Dude, you fascinate me"
+441,DYJHIW,Don't you just hate it when...?
+442,DYK,Did You Know
+443,DYNWUTB,Do you know what you are talking about?
+444,DYOR,Do your own research (common stock market chat slang)
+446,E,Ecstasy
+447,E,Enemy (online gaming)
+448,E1,Everyone
+449,E123,"Easy as one, two, three"
+450,E2EG,Ear to ear grin
+451,EAK,Eating at keyboard
+452,EBKAC,Error between keyboard and chair
+453,ED,Erase display
+454,EF4T,Effort
+455,EG,Evil grin
+456,EI,Eat it
+457,EIP,Editing in progress
+458,ELI5,Explain like I'm 5
+459,EM,E-mail (Twitter slang)
+460,EMA,E-mail address (Twitter slang)
+461,EMBAR,"Meaning ""Embarassing"""
+462,EMFBI,Excuse me for butting in
+463,EMFBI,Excuse me for jumping in
+464,EMSG,E-mail message
+465,ENUF,Enough
+466,EOD,End of day
+467,EOD,End of discussion
+468,EOL,End of lecture
+469,EOL,End of life
+470,EOM,End of message
+471,EOS,End of show
+472,EOT,End of transmission
+473,EQ,EverQuest (online gaming)
+474,ERP,"Meaning ""Erotic Role-Play"" (online gaming)"
+475,ERS2,Eres tz / are you (Spanish SMS)
+476,ES,Erase screen
+477,ESAD,Eat *S* and die!
+478,ESP,Email Service Provider
+479,ETA,Estimated time (of) arrival
+480,ETA,Edited to add
+481,EVA,Ever
+482,EVO,Evolution
+483,EWG,"Evil wicked grin (in fun, teasing)"
+484,EWI,Emailing while intoxicated
+485,EXTRA,Meaning over the top
+486,EYC,"Excitable, yet calm"
+487,EZ,Easy
+488,EZY,Easy
+490,F,Meaning female
+491,F2F,Face to face
+492,F2P,Free to play (online gaming)
+493,F4F,Follow for follow (Instagram)
+494,FAAK,Falling asleep at keyboard
+495,FAB,Fabulous
+496,Facepalm,"Used to represent the gesture of ""smacking your forehead with your palm"" to express embarrassment or frustration"
+497,FAF,Funny as *freak*
+498,FAM,"FFamily, but not limited to actual family members. Could mean friends."
+499,FAQ,Frequently asked questions
+500,FAY,*Freak* all you
+501,FB,Facebook
+502,FBB,"Meaning ""Facebook buddy"""
+503,FBC,Facebook chat
+504,FBF,Flashback Friday
+505,FBF,"Meaning ""Facebook friend"""
+506,FBF,"Fat boy food (e.g. pizza, burgers, fries)"
+507,FBFR,FaceBook friend
+508,FBM,Fine by me
+509,FBO,Facebook official (An official update from Facebook)
+510,FBOW,For better or worse
+511,FC,Fingers crossed
+512,FC,Full card (online gaming)
+513,FC'INGO,For crying out loud
+514,FCOL,For crying out loud
+515,Feelsbadman,A social meme that means to feel negative.
+516,Feelsbatman,"A social meme taking ""feelsbadman"" to the extreme. This references the DC super hero Batmanbecause he witnessed the murder of his parents."
+517,Feelsgoodman,A social meme that means to feel positive.
+518,FEITCTAJ,*Freak* 'em if they can't take a joke
+519,FF,Follow Friday (Twitter slang)
+520,FFA,Free for all (online gaming)
+521,FFS,For *freak'*sakes
+522,FICCL,Frankly I couldn't care a less
+523,FIF,*Freak* I'm funny
+524,FIIK,*Freaked* if I know
+525,FIIOOH,"Forget it, I'm out of here"
+526,FIL,Father in law
+527,FIMH,Forever in my heart
+528,Finna,"Means ""Going to"""
+529,Finsta,A second Instagram account where someone can post things that they're too afraid to post on their main account.
+530,FIOS,Fiber Optic Service
+531,FISH,"First in, still here"
+532,FITB,Fill in the blank
+533,FML,*Freak* My Life
+534,FOAD,*Freak* off and die
+535,FOAF,Friend of a friend
+536,FOMC,Falling off my chair
+537,FOMCL,Falling off my chair laughing
+538,FOMO,Fear of missing out (definition)
+539,FRT,For real though
+540,FTBOMH,From the bottom of my heart
+541,FTFY,Fixed that for you
+542,FTL,For the loss
+543,FTW,For the win
+544,FU,*Freak* you
+545,FUBAR,Fouled up beyond all recognition
+546,FUBB,Fouled up beyond belief
+547,FUD,Face up deal (online gaming)
+548,FUTAB,"Feet up, take a break"
+549,FW,Forward
+550,FWB,Friend with benefits
+551,FWIW,For what it's worth
+552,FWM,Fine with me
+553,FWP,First world problems
+554,FYA,For your amusement
+555,FYE,"Fire, something that is cool"
+556,FYEO,For your eyes only
+557,FYI,For your information
+558,FYP,For You Page; For Your Page
+560,G,Grin
+561,G,Giggle
+562,G/F,Girlfriend
+563,G+,Google+
+564,G2CU,Good to see you
+565,G2G,Got to go
+566,G2GICYAL8ER,Got to go I'll see you later
+567,G2R,Got to run
+568,G2TU,Got to tell u (you)
+569,G4C,Going for coffee
+570,G9,Genius
+571,GA,Go ahead
+572,GA,Google Analytics
+573,GAC,Get a clue
+574,GAFC,Get a *freaking* clue
+575,GAL,Get a life
+576,GANK,Meaning a player ambush or unfair player kill (online gaming)
+577,GAS,Got a second?
+578,GAS,Greetings and salutations
+579,GB,Goodbye
+580,GBTW,Get back to work
+581,GBU,God bless you
+582,GD,Good
+583,GD/R,"Grinning, ducking, and running"
+584,GDR,"Grinning, ducking, and running"
+585,GF,Girl friend
+586,GFI,Go for it
+587,GFN,Gone for now
+588,GG,Gotta Go
+589,GG,Good Game (online gaming)
+590,GG,Brother (Mandarin Chinese txt msgs)
+591,GGA,"Good game, all (online gaming)"
+592,GGE1,"Good game, everyone (online gaming)"
+593,GGMSOT,Gotta get me some of that
+594,GGOH,Gotta Get Outa Here
+595,GGP,Got to go pee
+596,GGU2,"Good game, you too"
+597,GH,Good hand (online gaming)
+598,GIAR,Give it a rest
+599,GIC,Gift in crib (online gaming)
+600,GIF,Graphics Interchange Format (Image File)
+601,GIGO,"Garbage in, garbage out"
+602,GIRL,Guy in real life
+603,GJ,Good job
+604,GL,Good luck
+605,GL/HF,"Good luck, have fun (online gaming)"
+606,GL2U,Good luck to you (online gaming)
+607,GLA,Good luck all (online gaming)
+608,GLE,Good luck everyone (online gaming)
+609,GLE1,Good luck everyone (online gaming)
+610,GLNG,Good luck next game (online gaming)
+611,GMBA,Giggling my butt off
+612,GMTA,Great minds think alike
+613,GMV,Got my vote
+614,GN,Good night
+615,GNA,Good night all
+616,GNE1,Good night everyone
+617,GNIGHT,Good night
+618,GNITE,Good night
+619,GNSD,"Good night, sweet dreams"
+620,GOAT,Greatest of all Time(s)
+621,GOI,Get over it
+622,GOL,Giggling out loud
+623,GOMB,Get off my back
+624,GPOY,Gratuitous picture of yourself
+625,GR&D,"Grinning, running and ducking"
+626,GR8,Great
+627,GRAS,Generally Recognized As Safe
+628,GRATZ,Congratulations
+629,GRL,Girl
+630,GRWG,Get right with God
+631,GS,Good shot
+632,GS,Good split (online gaming)
+633,GT,Good try
+634,GTFO,Get the *freak* out
+635,GTFOH,Get the *freak* outta here
+636,GTG,Got to go; Good to Go
+637,GTM,Giggling to myself
+638,GTR,Got To Run
+639,GTRM,Going to read mail
+640,GTSY,Great (or good) to see you
+641,GUCCI,Good
+642,GUD,Good
+643,GWHTLC,Glad we had this little chat
+645,H,Hug
+646,H-BDAY,Happy Birthday
+647,H-FDAY,Happy Father's Day
+648,H-MDAY,Happy Mother's Day
+649,H&K,Hugs & kisses
+650,H2CUS,Hope to see you soon
+651,H8,Hate
+652,H8TTU,Hate to be you
+653,HAG1,Have a good one
+654,HAGN,Have a good night
+655,HAGO,Have a good one
+656,HAK,Hug and kiss
+657,HAK,Hugs And Kisses
+658,HALP,Help (Discord)
+659,HAND,Have a nice day
+660,HAU,How about you?
+661,HAWT,"Have a wonderful day (out-dated, see next in list)"
+662,HAWT,"Meaning ""sexy"" or ""attractive"""
+663,HB,Hurry back
+664,HB,Hug back
+665,HBD,Happy birthday
+666,HBU,How about you?
+667,HF,Have fun
+668,HFAC,Holy flipping animal crackers
+669,HHIS,Head hanging in shame
+670,HIFW,How I felt when... (Used with photo or gif)
+671,HL,Half Life (online gaming)
+672,HLA,Hola / hello (Spanish SMS)
+673,HMB,Hit Me Back
+674,HMU,Hit me up
+675,HNL,(w)Hole 'nother level
+676,HOAS,Hold on a second
+677,HP,Hit points / Health points (online gaming)
+678,HRU,How are you?
+679,HT,Hat Tip (a way to say thanks)
+680,HTH,Hope this helps; Happy to Help
+681,HTML,Hyper Text Markup Language (coding lingo)
+682,HUB,Head up butt
+683,HUYA,Head up your *butt*
+684,HV,Have
+685,HVH,Heroic Violet Hold (online gaming)
+686,HW,Homework
+687,HYFR,"Hell yeah, *Freaking* right!"
+689,I2,I too (me too)
+690,IA8,I already ate
+691,IAAA,I am an accountant
+692,IAAD,I am a doctor
+693,IAAL,I am a lawyer
+694,IAC,In any case
+695,IAE,In any event
+696,IANAC,I am not a crook
+697,IANAD,I Am Not A Doctor
+698,IANAL,I am not a lawyer
+699,IAO,I am out (of here)
+700,IB,I'm back
+701,IB,I'm back
+702,IB,Inspired By
+703,IC,I see
+704,ICAM,I couldn't agree more
+705,ICBW,It could be worse
+706,ICEDI,I can't even discuss it
+707,ICFILWU,I could fall in love with you
+708,ICYMI,In case you missed it (Twitter slang)
+709,IDBI,I don't believe it
+710,IDC,I don't care
+711,IDGAF,I don't give a *freak*
+712,IDK,I don't know
+713,IDTS,I don't think so
+714,IDUNNO,I don't know
+715,IFYP,I feel your pain
+716,IG,Instagram
+717,IG2R,I got to run
+718,IGHT,I got high tonight
+719,IGN,I (I've) got nothing
+720,IGP,I got to (go) pee
+721,IHNI,I have no idea
+722,IIIO,"Intel inside, idiot outside"
+723,IIRC,If I remember correctly
+724,IK,I know
+725,IKR,"I know, right?"
+726,ILBL8,I'll be late
+727,ILU,I love you
+728,ILUM,I love you man
+729,ILY,I love you
+730,ILYSM,I love you so much
+731,IM,Instant message
+732,IMAO,In my arrogant opinion
+733,IMHO,In my humble opinion
+734,ImL,(in Arial font) Means I love you (a way of using the American sign language in text)
+735,IMNSHO,In my not so humble opinion
+736,IMO,In my opinion
+737,IMS,I am sorry
+738,IMSB,I am so bored
+739,IMTM,I am the man
+740,IMU,I miss u (you)
+741,INAL,I'm not a lawyer
+742,INC,"Meaning ""incoming"" (online gaming)"
+743,Inspoo,Inspiration
+744,INV,"Meaning ""Invite"""
+745,IO,Insertion Order (marketing lingo)
+746,IOMH,In over my head
+747,IOW,In other words
+748,IRL,In real life
+749,IRMC,I rest my case
+750,ISLY,I still love you
+751,ISO,In search of
+752,ISP,Internet Service Provider
+753,ISTG,I Swear To God
+754,ITAM,"It's The Accounting, Man (financial blogs)"
+755,ITT,In This Thread
+756,ITYK,I thought you knew
+757,IU2U,It’s Up To You
+758,IUSS,If you say so
+759,IWALU,I will always love you
+760,IWAWO,I want a way out
+761,IWIAM,Idiot wrapped in a moron
+762,IWNDWYT,I Will Not Drink With You Today (Reddit slang)
+763,IWSN,I want sex now
+764,IYKWIM,If you know what I mean
+765,IYO,In your opinion
+766,IYQ,"Meaning ""I like you"""
+767,IYSS,If you say so
+769,j00,You
+770,j00r,Your
+771,JAC,Just a second
+772,JAM,Just a minute
+773,JAS,Just a second
+774,JC (J/C),Just checking
+775,JDI,Just do it
+776,JELLY,"Meaning ""jealous"""
+777,JFF,Just for fun
+778,JFGI,Just *freaking* Google it
+779,JIC,Just in case
+780,JJ (J/J),Just joking
+781,JJA,Just joking around
+782,JK (J/K),Just kidding
+783,JLMK,Just let me know
+784,JMO,Just my opinion
+785,JP,Just playing
+786,JP,"Jackpot (online gaming, bingo games)"
+787,JT (J/T),Just teasing
+788,JTLYK,Just to let you know
+789,JV,Joint venture
+790,JW,Just wondering
+792,K,Okay
+793,k/b,Keyboard
+794,K8T,Katie
+795,KB,Keyboard
+796,KB,Kick butt (online gaming)
+797,KDFU,Means Cracking (K) the (D as in Da) *freak* up
+798,KEWL,Cool
+799,KEYA,I will key you later
+800,KEYME,Key me when you get in
+801,KFY,Kiss for you
+802,KIA,Know it all
+803,KIR,Keep it real
+804,KISS,"Keep it simple, stupid"
+805,KIT,Keep in touch
+806,KK,"Knock, knock"
+807,KK,"Okay, Okay!"
+808,KMA,Kiss my *a*
+809,KMK,Kiss my keister
+810,KMS,Killing myself
+811,KMT,Kiss my tushie
+812,KNIM,Know what I mean?
+813,KNOW,"Meaning ""knowledge"""
+814,KOC,Kiss on cheek
+815,KOL,Key opinion leader
+816,Koreaboo,Someone obsessed with Korean culture
+817,KOS,Kid over shoulder
+818,KOS,Kill on sight (online gaming)
+819,KOTC,Kiss on the cheek
+820,KOTD,Kicks of the day (Instagram)
+821,KOTL,Kiss on the lips
+822,KOW,Knock on wood
+823,KPC,Keeping parents clueless
+824,KPI,Key Performance Indicator
+825,KS,Kill then steal (online gaming)
+826,KSC,Kind (of) sort (of) chuckle
+827,KT,Katie
+828,KUTGW,Keep up the good work
+829,KYS,Kill yourself
+831,L2G,Like to go?
+832,L2G,(would) Love to go
+833,L2K,Like to come
+834,L2P,Learn to play
+835,l33t,"Leet, meaning 'elite'"
+836,L4L,Like for like (Instagram)
+837,L8R,Later
+838,L8RG8R,"Later, gator"
+839,LAB,Life's a *b*
+840,LBAY,Laughing back at you
+841,LBS,"Laughing, but serious"
+842,LBVS,"Laughing, but very serious"
+843,LBVS,Laughing But Very Serious
+844,LD,"Later, dude"
+845,LD,Long distance
+846,LDO,"Like, duh obviously"
+847,LEMENO,Let me know
+848,LERK,Leaving easy reach of keyboard
+849,LFD,Left for day
+850,LFG,Looking for group (online gaming)
+851,LFG,Looking for guard (online gaming)
+852,LFM,Looking for more (online gaming)
+853,LGH,Lets get high
+854,LH6,Lets have sex
+855,LHM,Lord help me
+856,LHO,Laughing head off
+857,LHSX,Lets have sex
+858,LI,LinkedIn
+859,LIC,Like I care
+860,LIK,Meaning liquor
+861,LIMT,Laugh in my tummy
+862,LIT,Meaning really good or something fun and exciting
+863,LIT,Extremely intoxicated
+864,LLGB,"Love, later, God bless"
+865,LLS,Laughing like *silly*
+866,LMAO,Laughing my *a* off
+867,LMBO,Laughing my butt off
+868,LMFAO,Laughing my freaking *a* off
+869,LMIRL,Lets meet in real life
+870,LMK,Let me know
+871,LMMFAO,Laughing my mother freaking a** off
+872,LMNK,Leave my name out
+873,LMS,Like my status (Facebook)
+874,LNT,Meaning lost in translation
+875,LOA,List of acronyms
+876,LOL,Laughing out loud
+877,LOL,Laugh out loud
+878,LOL,Lots of love
+879,LOLH,Laughing out loud hysterically
+880,LOLO,Lots of love
+881,LOLWTF,"Laughing out loud (saying) ""What the *freak*?"""
+882,LOTI,Laughing on the inside
+883,LOTR,Lord of The Rings (online gaming)
+884,LQTM,Laughing quietly to myself
+885,LSHMBH,Laugh so hard my belly hurts
+886,LSV,"Language, sex and violence"
+887,LTD,Living the dream
+888,LTK,Like To Know
+889,LTLWDLS,Let's twist like we did last summer
+890,LTNS,Long time no see
+891,LTOD,Laptop of death
+892,LTS,Laughing to self
+893,LULT,Love you long time
+894,LULZ,"Meaning joke, or for laughs"
+895,LVM,Left voice mail
+896,LWOS,Laughing without smiling
+897,LY,Love ya
+898,LYLAS,Love you like a sis
+899,LYLC,Love you like crazy
+900,LYSM,Love you so much
+902,M$,Microsoft
+903,M8,Mate
+904,MB,Mamma's boy
+905,MBS,Mom behind shoulder
+906,MC,Merry Christmas
+907,MCM,Man Crush Monday
+908,MDIAC,My Dad is a cop
+909,MEGO,My eyes glaze over
+910,MEH,"Meaning a ""shrug"" or shrugging shoulders"
+911,MEH,"Meaning a ""so-so"" or ""just okay"""
+912,MEHH,"Meaning a ""sigh"" or sighing"
+913,MEZ,"Meaning ""mesmerize"" (online gaming)"
+914,MFI,Mad for it
+915,MFW,My face when... (Used with photo or gif)
+916,MGB,May God bless
+917,MGMT,Management
+918,MHOTY,My hat (is) off to you
+919,MIRL,Me in real life
+920,MIRL,Meet in real life
+921,MISS.(number),"Meaning ""child and her age"". Miss.3 would be a 3-year old daughter"
+922,MKAY,"Meaning ""Mmm, okay"""
+923,MLM,Meaning give the middle finger
+924,MLM,Multi Level Marketing
+925,MM,Sister (Mandarin Chinese txt msg)
+926,MMK,Meaning okay? (as a question)
+927,MNC,Mother nature calls
+928,MNSG,Mensaje (message in Spanish)
+929,MOD,Moderator
+930,MOD,Modification (online gaming)
+931,MOMBOY,Mamma's boy
+932,MOO,My own opinion
+933,MOOS,Member of the opposite sex
+934,MORF,Male or female?
+935,MOS,Mother over shoulder
+936,MOSS,Member of same sex
+937,MP,Mana points (online gaming)
+938,MR.(number),"Meaning ""child and his age"". Mr.3 would be a 3-year old son"
+939,MRT,Modified ReTweet (Twitter slang)
+940,MRW,My reaction when... (Used with photo or gif)
+941,MSG,Message
+942,MTF,More to follow
+943,MTFBWU,May the force be with you
+944,MTFBWY,May The Force Be With You (Star Wars movie slang)
+945,MU,Miss U (you)
+946,MUAH,Multiple unsuccessful attempts (at/to) humor
+947,MUSM,Miss you so much
+948,MWAH,"Meaning ""kiss"" (it is is the sound made when kissing through the air)"
+949,MYO,Mind your own (business)
+950,MYOB,Mind your own business
+952,n00b,"Noob, newbie"
+953,N1,Nice one
+954,N2M,Nothing too much
+955,NADT,Not a darn thing
+956,NALOPKT,Not a lot of people know that
+957,NANA,"Not now, no need"
+958,NBD,No big deal
+959,NBFAB,No bad for a beginner (online gaming)
+960,NC,Nice crib (online gaming)
+961,ND,Nice double (online gaming)
+962,NE,Any
+963,NE1,Anyone
+964,NERF,"Meaning ""Changed and is now weaker"" (online gaming)"
+965,NFM,None for me / Not for me
+966,NFM,Not for me
+967,NFS,Need for Speed (online gaming)
+968,NFS,Not for sale
+969,NFW,No *freaking* way
+970,NFW,Not for work
+971,NFWS,Not for work safe
+972,NGL,Not gonna (going to) lie
+973,NH,Nice hand (online gaming)
+974,NIFOC,Naked in front of computer
+975,NIGI,Now I get it
+976,NIMBY,Not in my back yard
+977,NIROK,Not in reach of keyboard
+978,NLT,No later than
+979,NM,Nothing much
+980,NM,Never mind
+981,NM,Nice meld (online gaming)
+982,NMH,Not much here
+983,NMJC,"Nothing much, just chilling"
+984,NMU,"Not much, you?"
+985,NO1,No one
+986,NOOB,Meaning someone who is bad at (online) games
+987,NOWL,"Meaning ""knowledge"""
+988,NOYB,None of your business
+989,NP,No problem
+990,NPC,Non-playing character (online gaming)
+991,NQT,Newly qualified teacher
+992,NR,Nice roll (online gaming)
+993,NRN,No response/reply necessary
+994,NS,Nice score (online gaming)
+995,NS,Nice split (online gaming)
+996,NSA,No strings attached
+997,NSFL,Not safe for life
+998,NSFW,Not safe for work
+999,NSISR,Not sure if spelled right
+1000,NT,Nice try
+1001,NTH,Nice To Have
+1002,NTHING,Nothing (SMS)
+1003,NTS,Note to self
+1004,NVM,Never mind
+1005,NVR,Never
+1006,NW,No way
+1007,NWO,No way out
+1009,O,Opponent (online gaming)
+1010,O,"Meaning ""hugs"""
+1011,O,Over
+1012,O4U,Only for you
+1013,OA,Online auctions (see more auction abbreviations)
+1014,OAN,On Another Note
+1015,OATUS,On a totally unrelated subject
+1016,OB,Oh baby
+1017,OB,Oh brother
+1018,OBV,Obviously
+1019,OC,Original Content
+1020,OFC,Of course
+1021,OG,Original gangster
+1022,OGIM,"Oh God, it's Monday"
+1023,OH,Overheard
+1024,OHHEMMGEE,"Meaning ""Oh My God"" (alternate of OMG)"
+1025,OI,Operator indisposed
+1026,OIB,"Oh, I'm back"
+1027,OIC,"Oh, I see"
+1028,OJ,Only joking
+1029,OL,Old lady
+1030,OLL,Online love
+1031,OM,Old man
+1032,OM,"Oh, my"
+1033,OMAA,"Oh, my aching *A* (butt)"
+1034,OMDB,Over my dead body
+1035,OMFG,Oh my *freaking* God
+1036,"omfglmaobbqrofl"" ""copteriss","oh my *freaking* god, laugh my *a* off, owned, roll on floor spinning around I'm so sad"
+1037,OMG,Oh my God
+1038,OMG,Oh my gosh
+1039,OMGYG2BK,"Oh my God, you got to be kidding"
+1040,OMGYS,Oh my gosh you suck
+1041,OML,Oh My Lord
+1042,OMS,"On my soul (meaning ""promise"")"
+1043,OMW,On my way
+1044,ONL,Online
+1045,OO,Over and out
+1046,OOC,Out of character
+1047,OOH,Out of here
+1048,OOMF,One of my followers
+1049,OOO,Out Of Office
+1050,OOTD,One of these days
+1051,OOTD,Outfit of the day (Instagram)
+1052,OOTO,Out of the office
+1053,OP,On phone
+1054,OP,Original Poster (Reddit slang)
+1055,ORLY,Oh really?
+1056,OS,Operating system
+1057,OT,Off topic (discussion forums)
+1058,OT,Off Topic
+1059,OTB,Off to bed
+1060,OTFL,On the floor laughing
+1061,OTL,Out to lunch
+1062,OTOH,On the other hand
+1063,OTP,On the phone
+1064,OTP,One true pairing; two people you would love to see as a couple
+1065,OTT,Over the top
+1066,OTTOMH,Off the top of my head
+1067,OTW,Off to work
+1068,OVA,Over
+1069,OYO,On your own
+1071,P,Partner (online gaming)
+1072,P2P,Parent to parent
+1073,P2P,Peer to peer
+1074,P2P,Pay to play (online gaming)
+1075,P911,Parents coming into room alert
+1076,PAP,Post a picture
+1077,PAT,"Meaning ""patrol"" (online gaming)"
+1078,PAW,Parents are watching
+1079,PBOOK,Phonebook (e-mail)
+1080,PC,Player character (online gaming)
+1081,PCM,Please call me
+1082,PDA,Personal display (of) affection
+1083,PDH,Pretty darn happy
+1084,PDQ,Pretty darn quick
+1085,PDS,Please don't shoot
+1086,PEEPS,People
+1087,PFT,Pretty *freaking* tight
+1088,PIC,Picture
+1089,PIN,Personal Identification Number
+1090,PIP,Peeing in pants (laughing hard)
+1091,PIR,Parents in room
+1092,PISS,Put in some sugar
+1093,PITA,Pain in the *butt*
+1094,PKI,Public Key Infrastructure
+1095,PKMN,Pokemon (online gaming)
+1096,PL8,Plate
+1097,PLD,Played
+1098,PLMK,Please let me know
+1099,PLS,Please
+1100,PLU,People like us
+1101,PLZ,Please
+1102,PLZTLME,Please tell me
+1103,PM,Private Message
+1104,PMFI,Pardon me for interrupting
+1105,PMFJI,Pardon me for jumping in
+1106,PMSL,Pee myself laughing
+1107,POAHF,Put on a happy face
+1108,POIDH,"Picture, or it didn't happen"
+1109,POS,Parent over shoulder
+1110,POT,"Meaning ""potion"" (online gaming)"
+1111,POTD,Photo of the day (Instagram)
+1112,POV,Point of view
+1113,POV,Privately owned vehicle (originally used to differentiate an individual's vehicle from a military vehicle)
+1114,PP,Profile Picture
+1115,PPL,People
+1116,PPU,Pending pick-up
+1117,PR,Page Rank; Public Relations
+1118,PRESH,Precious
+1119,PROBS,Probably
+1120,PROGGY,Meaning computer program
+1121,PROLLY,Probably
+1122,PRON,Meaning pornography
+1123,PRT,Party
+1124,PRT,Please Retweet (Twitter slang)
+1125,PRW,People/parents are watching
+1126,PSA,Public Service Announcement
+1127,PSOS,Parent standing over shoulder
+1128,PSP,Playstation Portable
+1129,PST,Please send tell (online gaming)
+1130,PTB,Please Text Back
+1131,PTFO,Pass the *freak* out
+1132,PTIYPASI,Put that in your pipe and smoke it
+1133,PTL,Praise the Lord
+1134,PTMM,Please tell me more
+1135,PTO,Paid time off
+1136,PTO,Personal time off
+1137,PTO,Parent Teacher Organization
+1138,PU,That stinks!
+1139,PUG,Pick up group (online gaming)
+1140,PUKS,Pick up kids (SMS)
+1141,PV,Page Views
+1142,PVE,"Player vs enemy, Player versus environment (online gaming)"
+1143,PVP,Player versus player (online gaming)
+1144,PWN,own
+1145,PXT,Please explain that
+1147,PZ,Peace
+1148,PZA,Pizza
+1151,Q4U,(I have a) question for you
+1152,QC,Quality control
+1153,QFE,Question for everyone
+1154,QFI,Quoted for idiocy
+1155,QFI,Quoted for irony
+1156,QFT,Quoted for truth
+1157,QIK,Quick
+1158,QL,Quit laughing
+1159,QOTD,Quote of the day
+1160,QQ,Quick question
+1161,QQ (qq) (Q_Q),"Meaning ""crying eyes"""
+1162,QSL,Reply
+1163,QSO,Conversation
+1164,QT,Cutie
+1165,QTPI,Cutie pie
+1167,R,"Meaning ""are"""
+1168,R8,Rate (SMS)
+1169,RAK,Random Act (of) Kindness
+1170,RBAY,Right back at you
+1171,RFN,Right *freaking* now
+1172,RGR,"Roger (I agree, I understand)"
+1173,RHIP,Rank has its privileges
+1174,RIP,Rest in peace
+1175,RL,Real life
+1176,RLY,Really
+1177,RME,Rolling my eyes
+1178,RMLB,Read my lips baby
+1179,RMMM,Read my mail man
+1180,RN,Right Now
+1181,ROFL,Rolling on floor laughing
+1182,ROFLCOPTER,Rolling on floor laughing and spinning around
+1183,ROFLMAO,"Rolling on the floor, laughing my *butt* off"
+1184,ROI,Return on Investment
+1185,ROTFL,Rolling on the floor laughing
+1186,ROTFLUTS,Rolling on the floor laughing unable to speak
+1187,RS,Runescape (online gaming)
+1188,RSN,Real soon now
+1189,RSS,Rich Site Summary
+1190,RT,Roger that
+1191,RT,Retweet (Twitter slang)
+1192,RT,Real Time
+1193,RTBS,Reason to be single
+1194,RTD,Real Time Data
+1195,RTFM,Read the *freaking* manual
+1196,RTFQ,Read the *freaking* question
+1197,RTHX,"Meaning ""Thanks for the RT (Retweet)"" (Twitter slang)"
+1198,RTMS,"Read the manual, stupid"
+1199,RTNTN,"Retention (email, Government)"
+1200,RTRCTV,"Retroactive (email, Government)"
+1201,RTRMT,"Retirement (email, Government)"
+1202,RTSM,Read the stupid manual
+1203,RTWFQ,Read the whole *freaking* question
+1204,RU,Are you?
+1205,RUMOF,Are you male or female?
+1206,RUOK,Are you okay?
+1207,RUT,Are u (you) there?
+1208,RW,Real world
+1209,RX,Regards
+1210,RX,Meaning drugs or prescriptions
+1211,RYB,Read your Bible
+1212,RYO,Roll your own
+1213,RYS,Read your screen
+1214,RYS,Are you single?
+1216,S'OK,Meaning It' (s) okay (ok)
+1217,S2R,Send to receive (meaning send me your picture to get mine)
+1218,S2S,Sorry to say
+1219,S4L,Spam for life
+1220,SaaS,Software As A Service
+1221,SAL,Such a laugh
+1222,SAT,Sorry about that
+1223,SAVAGE,Slang for a shockingly careless expression or response to an event or message
+1224,SB,Snap back (Snapchat)
+1225,SB,Should be
+1226,SB,Smiling back
+1227,SBIA,Meaning Standing back in amazement
+1228,SBT,Sorry 'bout that
+1229,SC,Stay cool
+1230,SD,Sweet dreams
+1231,SDMB,"Sweet dreams, my baby"
+1232,SELFIE,A photo that is taken of oneself for social media sharing (definition)
+1233,SEM,Search Engine Marketing
+1234,SENPAI,"Meaning someone older than you, someone you look up to"
+1235,SEO,Search engine optimization
+1236,SERP,Search Engine Results Page
+1237,SETE,Smiling Ear-to-Ear
+1238,SFAIK,So far as I know
+1239,SFLR,Sorry For (the) Late Reply
+1240,SFW,Safe For Work
+1241,SG,Sounds Good
+1242,SH,Same here
+1243,SH^,Shut up
+1244,SHID,Slapping head in disgust
+1245,SHIP,"Slang for ""wishing two people were in a relationship"""
+1246,SICNR,"Sorry, I could not resist"
+1247,SIG2R,"Sorry, I got to run"
+1248,SIHTH,Stupidity is hard to take
+1249,SIMYC,Sorry I missed your call
+1250,SIR,Strike it rich
+1251,SIS,Snickering in silence
+1252,SIS,Meaning sister
+1253,SIT,Stay in touch
+1254,SITD,Still in the dark
+1255,SJW,Social justice warrior
+1256,SK8,Skate
+1257,SK8NG,Skating
+1258,SK8R,Skater
+1259,SK8RBOI,Skater Boy
+1260,SLAP,Sounds like a plan
+1261,Slay,To succeed at something
+1262,SM,Social media
+1263,SMART,"Specific, measurable, attainable, realistic, time"
+1264,SMAZED,Smoky haze (marijuana stoned)
+1265,SMB,Small to midsize business
+1266,SMEXI,"Combination of sexy and Mexican, used to describe attractive people"
+1267,SMH,Shaking my head
+1268,SMHID,Scratching my head in disbelief
+1269,SMM,Social Media Marketing
+1270,SMO,Social Media Optimization
+1271,SMP,Social Media Platform
+1272,SMS,Short Message Service (Text Message)
+1273,SNAFU,Situation normal all fouled up
+1274,SNERT,Snot nosed egotistical rude teenager
+1275,SNR,Streaks and Recents (Snapchat)
+1276,SO,Significant other
+1277,SOAB,Son of a *B*
+1278,SOL,Sooner or later
+1279,SOML,Story Of My Life
+1280,SOMY,Sick of me yet?
+1281,SOP,Standard Operating Procedure
+1282,SorG,Straight or Gay?
+1283,SOS,Meaning help
+1284,SOS,Son of Sam
+1285,SOT,Short of time
+1286,SOTMG,"Short of time, must go"
+1287,SOV,Share Of Voice
+1288,SOWM,Someone with me
+1289,SPK,Speak (SMS)
+1290,SPST,"Same place, same time"
+1291,SPTO,Spoke to
+1292,SQ,Square
+1293,SRP,Social Relationship Platform
+1294,SRSLY,Seriously
+1295,SRY,Sorry
+1296,SS,So sorry
+1297,SSDD,"Same stuff, different day"
+1298,SSIF,So stupid it's funny
+1299,SSINF,So stupid it's not funny
+1300,SSL,Secure Sockets Layer
+1301,ST&D,Stop texting and drive
+1302,Stan,Meaning a die-hard fan of someone (Snapchat)
+1303,STFU,Shut the *freak* up
+1304,STR8,Straight
+1305,STW,Search the Web
+1306,SU,Shut up
+1307,SUITM,See you in the morning
+1308,SUL,See you later
+1309,SUP,What's up?
+1310,SUTH,So use(d) to haters (Facebook)
+1311,SUX,"Meanings sucks or ""it sucks"""
+1312,SUYF,Shut up you fool
+1313,SWAG,Meaning free stuff and giveaways from tech tradeshows (definition)
+1314,SWAG,Scientific wild *a* guess
+1315,SWAK,Sent (or sealed) with a kiss
+1316,SWALK,Sealed (or sealed) with a loving kiss
+1317,SWAT,Scientific wild *butt* guess
+1318,SWL,Screaming with laughter
+1319,SWMBO,She who must be obeyed. Meaning wife or partner
+1320,SYL,See you later
+1321,SYS,See you soon
+1322,SYY,Shut your yapper
+1324,T:)T,Think happy thoughts
+1325,T+,Think positive
+1326,T4BU,Thanks for being you
+1327,TA,Thanks a lot
+1328,TAFN,That's all for now
+1329,TAM,Tomorro a.m.
+1330,TANK,Meaning really strong
+1331,TANKED,"Meaning ""owned"""
+1332,TANKING,"Meaning ""owning"""
+1333,TARFU,Things Are Really *fouled* Up.
+1334,TAU,Thinking about u (you)
+1335,TAUMUALU,Thinking about you miss you always love you
+1336,TBA,To Be Announced
+1337,TBAG,"Process of disgracing a corpse, taunting a fragged/killed player (online gaming)"
+1338,TBBH,To be brutally honest
+1339,TBC,To be continued
+1340,TBD,To be determined
+1341,TBH,To be honest
+1342,TBL,Text back later
+1343,TBT,Throwback Thursday (Twitter slang)
+1344,TC,Take care
+1345,TCB,Take care of business
+1346,TCOY,Take care of yourself
+1347,TD,Tower defense (online gaming)
+1348,TD2M,Talk dirty to me
+1349,TDTM,Talk dirty to me
+1350,TEA,Meaning gossip
+1351,TFF,Too *freaking* funny
+1352,TFS,Thanks for sharing
+1353,TFTF,Thanks for the follow (Twitter slang)
+1354,TFTI,Thanks for the invitation
+1355,TFTT,Thanks for this tweet (Twitter slang)
+1356,TFW,That Feeling When
+1357,TG,Thank goodness
+1358,TGIF,Thank God it's Friday
+1359,THNQ,Thank-you (SMS)
+1360,THNX,Thanks
+1361,THOT,That wh*re over there
+1362,THT,Think happy thoughts
+1363,THX,Thanks
+1364,TIA,Thanks in advance
+1365,TIAD,Tomorrow is another day
+1366,TIC,Tongue-in-cheek
+1367,TIL,Today I learned
+1368,TILIS,Tell it like it is
+1369,TIME,Tears In My Eyes
+1370,TIR,Teacher in room
+1371,TL,Too long
+1372,TL;DR,Too long; didn't read
+1373,TLK2UL8R,Talk to you later
+1374,TM,Trust me
+1375,TMA,Take my advice
+1376,TMB,Text me back
+1377,TMB,Tweet me back (Twitter slang)
+1378,TMI,Too much information
+1379,TMOT,Trust me on this
+1380,TMRW,Tomorrow
+1381,TMTH,Too much to handle
+1382,TMWFI,Take my word for it
+1383,TMYL,Tell me your location
+1384,TNSTAAFL,There's no such thing as a free lunch
+1385,TNT,Til next time
+1386,TNTL,Trying Not To Laugh
+1387,TOJ,Tears of joy
+1388,TOS,Terms of service
+1389,TOTES,Totally
+1390,TOU,Thinking of you
+1391,TOY,Thinking of you
+1392,TPM,Tomorrow p.m.
+1393,TPTB,The powers that be
+1394,TQ,Te quiero / I love you (Spanish SMS)
+1395,TSH,Tripping so hard
+1396,TSL,Transport Layer Security
+1397,TSNF,That's so not fair
+1398,TSTB,"The sooner, the better"
+1399,TT,Trending topic (Twitter slang)
+1400,TTFN,Ta ta for now
+1401,TTG,Time to go
+1402,TTLY,Totally
+1403,TTP,To The Point
+1404,TTTT,These things take time
+1405,TTUL,Talk to you later
+1406,TTYAFN,Talk to you awhile from now
+1407,TTYL,Talk to you later
+1408,TTYS,Talk to you soon
+1409,TU,Thank you
+1410,TUI,Turning you in
+1411,TURNT,"Meaning excitement, turned up"
+1412,TWSS,That's what she said
+1413,TX,Thanks
+1414,TY,Thank you
+1415,TYAFY,Thank you and *freak* you
+1416,TYFC,Thank you for charity (online gaming)
+1417,TYFYC,Thank you for your comment
+1418,TYS,Told you so
+1419,TYSO,Thank you so much
+1420,TYT,Take your time
+1421,TYVM,Thank you very much
+1423,U-L,"Meaning ""You will"""
+1424,UCMU,You crack me up
+1425,UDI,"Unidentified drinking injury (meaning bruise, scratch, ache and so on)"
+1426,UDM,U (You) da (the) man
+1427,UDS,Ugly domestic scene
+1428,UFB,Un *freaking* believable
+1429,UFN,Until further notice
+1430,UFWM,You *freaking* with me?
+1431,UGC,User Generated Content
+1432,UGTBK,You've got to be kidding
+1433,UHGTBSM,You have got to be s#$t*ing me!
+1434,UI,User Interface
+1435,UKTR,You know that's right
+1436,UL,Upload
+1437,UN4TUN8,Unfortunate
+1438,UNA,Use no acronyms
+1439,UNBLEFBLE,Unbelievable
+1440,UNCRTN,Uncertain
+1441,UNPC,Un- (not) politically correct
+1442,UOK,(Are) You ok?
+1443,UR,You are / You're
+1444,UR2YS4ME,You are too wise for me
+1445,URA*,You are a star
+1446,URH,You are hot (U R Hot)
+1447,URL,Uniform resource locator (the website address)
+1448,URSKTM,You are so kind to me
+1449,URTM,You are the man
+1450,URW,You are welcome
+1451,USBCA,Until something better comes along
+1452,USU,Usually
+1453,UT,Unreal Tournament (online gaming)
+1454,UT2L,You take too long
+1455,UTM,You tell me
+1456,UV,Unpleasant visual
+1457,UV,Unique Views (Number of page visitors)
+1458,UW,You're welcome
+1459,UX,User experience
+1461,V,Very
+1462,V/R,Very Respectfully
+1463,VAT,Value added tax
+1464,VBL,Visible bra line
+1465,VBS,Very big smile
+1466,VC,Voice chat
+1467,VEG,Very evil grin
+1468,VFF,Very freaking funny
+1469,VFM,Value for money
+1470,VGC,Very good condition
+1471,VGG,Very good game (online gaming)
+1472,VGH,Very good hand (online gaming)
+1473,VIN,Vehicle Identification Number
+1474,VIP,Very important person
+1475,VM,Voice mail
+1476,VN,Very nice
+1477,VNH,Very nice hand (online gaming)
+1478,VoIP,Voice over Internet Protocol (definition)
+1479,VRY,Very
+1480,VSC,Very soft chuckle
+1481,VSF,Very sad face
+1482,VWD,Very well done (online gaming)
+1483,VWP,Very well played (online gaming)
+1485,W@,What?
+1486,W/,With
+1487,W/B,Welcome back
+1488,W/B,Write back
+1489,W/E,Whatever
+1490,W/END,Weekend
+1491,W/O,Without
+1492,W3,WWW (Web address)
+1493,W8,Wait
+1494,WAH,Working at home
+1495,WAJ,What a jerk
+1496,WAM,Wait a minute
+1497,WAN2,Want to? (SMS)
+1498,WAN2TLK,Want to talk
+1499,WAREZ,Meaning pirated (illegally gained) software
+1500,WAS,Wait a second
+1501,WAS,Wild *a* guess
+1502,WAT,What
+1503,WAWA,Where are we at?
+1504,WAYF,Where are you from?
+1505,WB,Welcome back
+1506,WBS,Write back soon
+1507,WBU,What about you?
+1508,WBW,Way Back Wednesday
+1509,WC,Welcome
+1510,WC,Who cares
+1511,WCA,Who cares anyway
+1512,WCW,Women Crush Wednesday
+1513,WDALYIC,Who died and left you in charge
+1514,WDYK,What do you know?
+1515,WDYM,What Do You Mean
+1516,WDYT,What do you think?
+1517,WE,Whatever
+1518,WEBO,Webopedia
+1519,WEEBO,Describes a person obsessed with of Japanese culture
+1520,WEP,Weapon (online gaming)
+1521,WFH,Work From Home
+1522,WGACA,What do you think?
+1523,WH5,"Who, what, when, where, why"
+1524,WHATEVES,Whatever
+1525,WIBNI,Wouldn't it be nice if
+1526,WIIFM,What's in it for me?
+1527,WISP,Winning is so pleasurable
+1528,WITP,What is the point?
+1529,WITW,What in the world
+1530,WIU,Wrap it up
+1531,WK,Week
+1532,WKD,Weekend
+1533,WL,Whatta loser
+1534,WOA,Work of Art
+1535,WOKE,"Slang for people who are aware of current social issues, and politics"
+1536,WOM,Word of Mouth
+1537,WOMBAT,"Waste of money, brains and time"
+1538,WOW,World of Warcraft (online gaming)
+1539,WRK,Work
+1540,WRT,With regard to
+1541,WRU,Where are you?
+1542,WRU@,Where are you at?
+1543,WRUD,What are you doing?
+1544,WTB,Want to buy (online gaming)
+1545,WTF,What the *freak* ?
+1546,WTFE,What the *freak* ever
+1547,WTFO,"What the *freak* ?, over."
+1548,WTG,Way to go
+1549,WTGP,Want to go private (talk out of public chat area)
+1550,WTH,What the heck?
+1551,WTM,Who's the man?
+1552,WTS,Want to sell? (online gaming)
+1553,WTT,Want to trade? (online gaming)
+1554,WU,What's up?
+1555,WUCIWUG,What you see is what you get
+1556,WUF,Where are you from?
+1557,WUP,What's up?
+1558,WUT,"Meaning ""what"""
+1559,WUU2,What are you up to?
+1560,WUW,What u (you) want?
+1561,WUZ,"Meaning ""was"""
+1562,WWJD,What would Jesus do?
+1563,WWJD,"What Would Judd Do? (Artist Donald Judd, who was known to do things in his own compulsive way.)"
+1564,WWNC,Will wonders never cease
+1565,WWYC,Write when you can
+1566,WYCM,Will you call me?
+1567,WYD,What (are) you doing?
+1568,WYGAM,When you get a minute
+1569,WYHAM,When you have a minute
+1570,WYLEI,When you least expect it
+1571,WYSIWYG,What you see is what you get
+1572,WYWH,Wish you were here
+1574,X,Kiss
+1575,X-1-10,"Meaning ""Exciting"""
+1576,X!,"Meaning ""a typical woman"""
+1577,XD,"Meaning ""really hard laugh"" (where D is a smiley mouth)"
+1578,XD,"Meaning a ""devilish smile"""
+1579,XLNT,Excellent
+1580,XLR8,"Meaning ""faster"" or ""going faster"""
+1581,XME,Excuse Me
+1582,XOXOXO,Hugs & Kisses
+1583,XPOST,Meaning Cross-post. A link posted to a subreddit that was already shared on a different subreddit (Reddit)
+1584,XYL,"Ex-young lady, meaning wife. (amateur radio)"
+1585,XYZ,Examine your zipper
+1587,Y,Meaning Yawn
+1588,Y?,Why?
+1589,Y2K,You're too kind
+1590,YA,Your
+1591,YAA,Yet another acronym
+1592,YABA,Yet another bloody acronym
+1593,YARLY,"Ya, really?"
+1594,YAS,"Meaning ""praise"""
+1595,YBIC,Your brother in Christ
+1596,YBS,You'll be sorry
+1597,YCDBWYCID,You can't do business when your computer is down
+1598,YCHT,You can have them
+1599,YCLIU,You can look it up
+1600,YCMU,You crack me up
+1601,YCT,Meaning Your comment to?
+1602,YD,Yesterday
+1603,YEET,"Meaning excitement, approval or display of energy (i.e. throwing something)"
+1604,YF,Wife
+1605,YG,Young gentleman
+1606,YGG,You go girl
+1607,YGM,You Get Me
+1608,YGTBKM,You've got to be kidding me
+1609,YGTI,You Get The Idea
+1610,YGTR,You got that right
+1611,YHBT,You have been trolled
+1612,YHBW,You have been warned
+1613,YHL,You have lost
+1614,YIU,"Yes, I understand"
+1615,YKW,You know what
+1616,YKWYCD,You know what you can do
+1617,YL,Young lady
+1618,YMMV,Your mileage may vary
+1619,YNK,You never know
+1620,YOLO,You only live once
+1621,YP,"Yes, Please"
+1622,YR,Your
+1623,YR,Yeah right
+1624,YRYOCC,You're running your own cuckoo clock
+1625,YSIC,Your sister in Christ
+1626,YSK,You Should Know
+1627,YSYD,Yeah sure you do
+1628,YT,YouTube
+1629,YT,You there?
+1630,YTB,You're the best
+1631,YTB,Youth talk back
+1632,YTG,You're the greatest
+1633,YTTL,You take too long
+1634,YW,You're welcome
+1635,YWHNB,"Yes, we have no bananas"
+1636,YWHOL,"Yelling ""woohoo"" out loud"
+1637,YWSYLS,"You win some, you lose some"
+1638,YYSSW,"Yeah, yeah, sure, sure, whatever"
+1639,BJP,Bharatiya Janata Party
+1640,INC,Indian National Congress
+1641,ICU,Intensive Care Unit
+1642,yr,your
+1643,govt,government
+1644,th,the
+1645,rahulgandhi,rahul gandhi
+1646,mla,member of the legislative assembly
+1647,cm,chief minister
+1648,ucan,you can
+1649,u ,you
+1650,dr,doctor
+1651,mlas,member of the legislative assembly
+1652,med,medical
+1653,govts,government
+1654,thru,through
+1655,pvt,private
+1656,ppe,personal protective equipment
+1657,1st,first
+1658,2nd,second
+1659,3rd,third
+1660,4th,fourth
+1661,5th,fifth
+1662,6th,sixth
+1663,ap,andhra pradesh
+1664,up,uttar pradesh
+1665,hp,himachal pradesh
+1666,coz,because
+1667,cpr,cardiopulmonary resuscitation
+1668,ngo,non government organisation
+1669,rti ,right to information
+1670,pple,people
+1671,I'm,i am
+1672,doesn't,does not
+1673,plx,please
+1674,don't,do not
+1675,7th,seventh
+1676,8th,eighth
+1677,9th,ninth
+1678,10th,tenth
+1679,,
+1680,,
+1681,,
+1682,,
+1683,,
+1684,,
+1685,,
+1686,,
+1687,,
+1688,,
+1689,,
+1690,,
+1691,,
+1692,,
+1693,,
+1694,,
+1695,,
+1696,,
+1697,,
+1698,,
+1699,,
+1700,,
+1701,,
+1702,,
