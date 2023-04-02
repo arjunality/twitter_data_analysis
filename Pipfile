@@ -14,6 +14,7 @@ contractions = "*"
 scikit-learn = "*"
 deep-translator = "*"
 beautifulsoup4 = "*"
+wordcloud = "*"
 
 [dev-packages]
 ipykernel = "*"
