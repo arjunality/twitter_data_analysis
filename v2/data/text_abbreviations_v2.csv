@@ -123,9 +123,6 @@ Column1,text,meaning
 122,APP,Application
 123,APP,Appreciate
 124,AQAP,As quick (or quiet) as possible
-125,ARC,Archive (compressed files)
-126,ARE,Acronym rich environment
-127,ARG,Argument
 128,ASAP,As soon as possible
 129,ASIG,And so it goes
 130,ASL,Age/sex/location
@@ -176,7 +173,6 @@ Column1,text,meaning
 176,BAMF,Bad *a* mother *f*
 177,BAO,Be aware of
 178,BAS,Big 'butt' smile
-179,BASIC,Meaning anything mainstream
 180,BASOR,Breathing a sigh of relief
 181,BAU,Business as usual
 182,BAY,Back at ya
