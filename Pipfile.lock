@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e20c93e4612a7c71e0c580fc0b6bc4b58287309b9b26f1f9202372e95ec72231"
+            "sha256": "5f426c8f67bdf6ff8fb29e0205879e82322e2cd667da6bd37eea5bf3ecbf2149"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -148,6 +148,13 @@
             ],
             "index": "pypi",
             "version": "==4.12.2"
+        },
+        "bert-serving": {
+            "hashes": [
+                "sha256:b679853da7a14ddfe8ed90a84aae1a63f0fb48c3d04925b832e18558a0b7376a"
+            ],
+            "index": "pypi",
+            "version": "==0.0.1"
         },
         "boto3": {
             "hashes": [

@@ -19,6 +19,7 @@ gensim = "*"
 flair = "*"
 torchvision = "*"
 tqdm = "*"
+bert-serving = "*"
 
 [dev-packages]
 ipykernel = "*"
