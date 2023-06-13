@@ -20,6 +20,9 @@ flair = "*"
 torchvision = "*"
 tqdm = "*"
 bert-serving = "*"
+lda = "*"
+spacy = "*"
+pyldavis = "*"
 
 [dev-packages]
 ipykernel = "*"
