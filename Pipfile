@@ -23,6 +23,7 @@ bert-serving = "*"
 lda = "*"
 spacy = "*"
 pyldavis = "*"
+torchtext = "*"
 
 [dev-packages]
 ipykernel = "*"
